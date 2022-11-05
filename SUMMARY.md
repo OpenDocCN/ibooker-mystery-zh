@@ -13,3 +13,5 @@
     +   [十二、仪式和典礼](docs/wicca-book-spell-witchcraft-begin/12.md)
     +   [十三、关于出生、死亡和婚姻的手艺原则](docs/wicca-book-spell-witchcraft-begin/13.md)
     +   [十四、魔法](docs/wicca-book-spell-witchcraft-begin/14.md)
++   [【通行灵界的科学家】李嗣涔教授：挠场的科学](docs/naochangde-kexue.md)
++   
