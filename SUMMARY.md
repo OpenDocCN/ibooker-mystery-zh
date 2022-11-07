@@ -13,4 +13,7 @@
     +   [十二、仪式和典礼](docs/wicca-book-spell-witchcraft-begin/12.md)
     +   [十三、关于出生、死亡和婚姻的手艺原则](docs/wicca-book-spell-witchcraft-begin/13.md)
     +   [十四、魔法](docs/wicca-book-spell-witchcraft-begin/14.md)
-+   [李嗣涔教授：挠场的科学](docs/naochangde-kexue.md)
++   杂项
+    +   [矩阵脱离指南0-9集：从勇者之路到新手指南 - 闪亮天空520 - BV1zt4y1T7nh](docs/misc/juzhen-tuoli-zhinan-0to9.md)
+    +   [矩阵脱离指南10-20集：从梦境到平行时间 - 闪亮天空520 - BV1he4y127RP](docs/misc/juzhen-tuoli-zhinan-10to20.md)
+    +   [李嗣涔教授：挠场的科学](docs/misc/naochangde-kexue.md)
