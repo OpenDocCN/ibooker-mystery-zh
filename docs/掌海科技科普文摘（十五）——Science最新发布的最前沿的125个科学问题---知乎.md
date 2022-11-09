@@ -1,0 +1,32 @@
+<!--yml
+category: 未分类
+date: 2022-11-09 19:19:42
+-->
+
+# 掌海科技科普文摘（十五）——Science最新发布的最前沿的125个科学问题 - 知乎
+
+> 来源：[https://zhuanlan.zhihu.com/p/364904758](https://zhuanlan.zhihu.com/p/364904758)
+
+**原文地址如下：**
+
+[](https://link.zhihu.com/?target=https%3A//new.qq.com/rain/a/20210410A067N900)
+
+4月10日下午，上海交通大学携手《科学》杂志发布“新125个科学问题”——《125个科学问题：探索与发现》。此次125个科学问题征集结合国际前沿、全球共需、科学发展，聚焦前瞻重大科学问题，面向科学家、学生、社会征集。世界顶尖科学家协会也发挥资源优势，邀请诺贝尔奖、沃尔夫奖、拉斯克奖、图灵奖、麦克阿瑟天才奖等世界“最强大脑”共同参与，共同讨论人类当前与未来面对的科学问题。
+
+上海交通大学校长林忠钦表示，上海交大联合《科学》杂志面向全球征集与发布125个科学问题，既是对既往研究成果的凝练与升华，更是对未来人类发展的激励与引领。
+
+此次发布的问题包括数学、化学、医学与健康、生命科学、天文学、物理学、信息科学、工程与材料科学、神经科学、生态学、能源科学与人工智能等领域。并特别提到海洋保护：
+
+1\. What could help conservation of the oceans?
+
+1.什么可以帮助保护海洋？
+
+“巨大的变化在许多科学领域发生，现在正是回顾过往和展望未来的大好时机（great time），来寻找科学灵感。我相信这些问题将成为代表未来的年轻人思考的重要部分。”世界顶尖科学家协会副主席、2013年诺贝尔化学奖的主Michael Levitt在致辞中说到。
+
+**【掌海科技】**公司以令地球水资源洁净、空气洁净为使命，聚焦水域环境的污染治理与生态修复，并已率先在非侵入性污水治理、远程无接触信息传输技术等方面取得突破性进展，力争成为未来世界科技型环保公司中的“领航者”。
+
+<figure data-size="normal">
+
+<noscript><img src="img/85c73e0510044ee0f6125653cca3fd94.png" data-caption="" data-size="normal" data-rawwidth="480" data-rawheight="2517" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-7502cf4dbf0359d83db164f8626fdc60_r.jpg" data-original-src="https://pic1.zhimg.com/v2-7502cf4dbf0359d83db164f8626fdc60_b.jpg"/></noscript>
+
+</figure>
