@@ -13,13 +13,13 @@
     +   [十二、仪式和典礼](docs/wicca-book-spell-witchcraft-begin/12.md)
     +   [十三、关于出生、死亡和婚姻的手艺原则](docs/wicca-book-spell-witchcraft-begin/13.md)
     +   [十四、魔法](docs/wicca-book-spell-witchcraft-begin/14.md)
-+   杂项
-    +   [矩阵脱离指南0-9集：从勇者之路到新手指南 - 闪亮天空520 - BV1zt4y1T7nh](docs/misc/juzhen-tuoli-zhinan-0to9.md)
-    +   [矩阵脱离指南10-20集：从梦境到平行时间 - 闪亮天空520 - BV1he4y127RP](docs/misc/juzhen-tuoli-zhinan-10to20.md)
-    +   [李嗣涔教授：挠场的科学](docs/misc/naochangde-kexue.md)
 +   [挠场的科学](docs/naochangde-kexue/READMD.md)
     +   [一、特斯拉的特异功能与电力产业的兴起](docs/naochangde-kexue/1.md)
     +   [二、无线电力传送与特斯拉遗失的文件](docs/naochangde-kexue/2.md)
     +   [三、特斯拉所来不及知道的「挠场」](docs/naochangde-kexue/3.md)
     +   [四、穿梭阴阳的挠场——道家风水、八卦、布阵的解密](docs/naochangde-kexue/4.md)
     +   [五、二十一世纪的挠力文明](docs/naochangde-kexue/5.md)
++   杂项
+    +   [矩阵脱离指南0-9集：从勇者之路到新手指南 - 闪亮天空520 - BV1zt4y1T7nh](docs/misc/juzhen-tuoli-zhinan-0to9.md)
+    +   [矩阵脱离指南10-20集：从梦境到平行时间 - 闪亮天空520 - BV1he4y127RP](docs/misc/juzhen-tuoli-zhinan-10to20.md)
+    +   [李嗣涔教授：挠场的科学](docs/misc/naochangde-kexue.md)
