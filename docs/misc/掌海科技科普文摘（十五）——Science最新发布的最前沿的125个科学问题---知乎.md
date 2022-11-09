@@ -25,8 +25,7 @@ date: 2022-11-09 19:19:42
 
 **【掌海科技】**公司以令地球水资源洁净、空气洁净为使命，聚焦水域环境的污染治理与生态修复，并已率先在非侵入性污水治理、远程无接触信息传输技术等方面取得突破性进展，力争成为未来世界科技型环保公司中的“领航者”。
 
-<figure data-size="normal">
 
-<noscript><img src="img/85c73e0510044ee0f6125653cca3fd94.png" data-caption="" data-size="normal" data-rawwidth="480" data-rawheight="2517" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-7502cf4dbf0359d83db164f8626fdc60_r.jpg" data-original-src="https://pic1.zhimg.com/v2-7502cf4dbf0359d83db164f8626fdc60_b.jpg"/></noscript>
 
-</figure>
+![](img/85c73e0510044ee0f6125653cca3fd94.png)
+
