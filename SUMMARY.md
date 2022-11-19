@@ -46,6 +46,13 @@
     +   [三、特斯拉所来不及知道的「挠场」](docs/naochangde-kexue/3.md)
     +   [四、穿梭阴阳的挠场——道家风水、八卦、布阵的解密](docs/naochangde-kexue/4.md)
     +   [五、二十一世纪的挠力文明](docs/naochangde-kexue/5.md)
++   [灵界的科学](docs/lingjiede-kexue/README.md)
+    +   [一、灵界在哪里？](docs/lingjiede-kexue/1.md)
+    +   [二、耳朵及手指识字的实验启示](docs/lingjiede-kexue/2.md)
+    +   [三、发现虚数时空，探访神灵网站](docs/lingjiede-kexue/3.md)
+    +   [四、一物两象与特异功能原理](docs/lingjiede-kexue/4.md)
+    +   [五、心灵与意识的科学奥祕](docs/lingjiede-kexue/5.md)
+    +   [六、星际通信新科技──寻找外星人](docs/lingjiede-kexue/6.md)
 +   杂项
     +   [矩阵脱离指南0-9集：从勇者之路到新手指南 - 闪亮天空520 - BV1zt4y1T7nh](docs/misc/juzhen-tuoli-zhinan-0to9.md)
     +   [矩阵脱离指南10-20集：从梦境到平行时间 - 闪亮天空520 - BV1he4y127RP](docs/misc/juzhen-tuoli-zhinan-10to20.md)
