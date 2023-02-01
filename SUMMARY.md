@@ -33,7 +33,7 @@
 		+   [第二部分:准备蜡烛魔法](docs/wicca-magic-start-kit/04.md)
 		+   [第三部分:蜡烛魔法咒语](docs/wicca-magic-start-kit/05.md)
 	+   [威卡水晶魔法](docs/wicca-magic-start-kit/06.md)
-	+   [简介](docs/wicca-magic-start-kit/07.md)
+		+   [简介](docs/wicca-magic-start-kit/07.md)
 		+   [第一部分:来自地球的礼物](docs/wicca-magic-start-kit/08.md)
 		+   [第二部分:了解水晶和宝石](docs/wicca-magic-start-kit/09.md)
 		+   [第三部分:十三种水晶](docs/wicca-magic-start-kit/10.md)
