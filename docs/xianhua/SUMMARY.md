@@ -10,7 +10,7 @@
 +   [月亮的财富显化之旅：第四部分](yueliang-pt4.md)
 +   [月亮的财富显化之旅：第五部分](yueliang-pt5.md)
 +   [月亮的财富显化之旅：第六部分](yueliang-pt6.md)
-+   [被诈骗了，该怎么办？ - P1 - 月亮的财富显化之旅 - BV19x4y1g7eP](yueliang-pt7.md)
++   [月亮的财富显化之旅：第七部分](yueliang-pt7.md)
 +   [【Caleb】如果你想要放弃显化，那就看看这个视频 - P1 - BeTheChangeee - BV1a3411m7Fp](【Caleb】如果你想要放弃显化，那就看看这个视频 - P1 - BeTheChangeee - BV1a3411m7Fp.md)
 +   [【授权搬运／Lyla】4次彩票 3次头奖 千万显化 成功案例（上） - P1：正片 - 是你的Carol - BV1Je4y1j7Xo](【授权搬运／Lyla】4次彩票 3次头奖 千万显化 成功案例（上） - P1：正片 - 是你的Carol - BV1Je4y1j7Xo.md)
 +   [我是怎么成功显化不用工作，且在4个月里收入持续翻倍的？ - P1 - 显化hin牛鼻的kiko - BV1aN411K7Jm](我是怎么成功显化不用工作，且在4个月里收入持续翻倍的？ - P1 - 显化hin牛鼻的kiko - BV1aN411K7Jm.md)
