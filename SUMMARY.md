@@ -1,4 +1,5 @@
-+   [巫术现代指南](docs/mod-witchcraft/README.md)
-+   [威卡魔法入门书](docs/wicca-magic-start-kit/README.md)
-+   [面向初学者的威卡咒语和巫术书](docs/wicca-book-spell-witchcraft-begin/README.md)
 +   [现代性魔法](docs/mod-sex-magic/README.md)
++   [巫术现代指南](docs/mod-witchcraft/README.md)
++   [魔法学徒/奎利亚（Queria）学徒](docs/queria-xuetu/README.md)
++   [面向初学者的威卡咒语和巫术书](docs/wicca-book-spell-witchcraft-begin/README.md)
++   [威卡魔法入门书](docs/wicca-magic-start-kit/README.md)
