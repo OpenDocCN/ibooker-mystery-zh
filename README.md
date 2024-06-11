@@ -1,4 +1,4 @@
-# 飞龙的神秘学译文集
+# 布客神秘学译文集
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
@@ -6,7 +6,7 @@
 > 
 > 偌大的地球，放不下一张灵修的书桌。
 
-* [在线阅读](https://mys.flygon.net)
+* [在线阅读](https://bkmys.flygon.net)
 
 ## 下载
 
