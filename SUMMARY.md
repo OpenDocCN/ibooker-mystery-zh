@@ -1,3 +1,4 @@
++   [灵修系列](docs/lingxiu/README.md)
 +   [现代性魔法](docs/mod-sex-magic/README.md)
 +   [巫术现代指南](docs/mod-witchcraft/README.md)
 +   [Quareia 魔法系列教程](docs/quareia/README.md)

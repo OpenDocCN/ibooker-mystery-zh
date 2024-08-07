@@ -1,1 +1,1 @@
-+   [灵修系列](READNE.md)
++   [灵修系列](README.md)
