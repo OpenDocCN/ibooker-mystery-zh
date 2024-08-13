@@ -3643,4 +3643,4 @@
 　　伟大，是你。
 
 　　神圣，也是你。
-![](img/Fine.png)
+![](img/linghunchushengqian_Fine.png)
