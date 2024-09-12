@@ -1,48 +1,26 @@
 # 登出键
 
-![日程表
+![日程表中度可信度描述已自动生成](images/image-1.png)
 
-中度可信度描述已自动生成](images/image-1.png)
+![图片包含 华美, 蛋糕, 照片, 装饰描述已自动生成](images/image-2.png)
 
-![图片包含 华美, 蛋糕, 照片, 装饰
+![彩色的星球低可信度描述已自动生成](images/image-3.png)
 
-描述已自动生成](images/image-2.png)
+![图片包含 物体, 照片, 男人, 桌子描述已自动生成](images/image-4.png)
 
-![彩色的星球
+![图片包含 形状描述已自动生成](images/image-5.png)
 
-低可信度描述已自动生成](images/image-3.png)
+![图片包含 泡沫, 华美, 物体, 风筝描述已自动生成](images/image-6.png)
 
-![图片包含 物体, 照片, 男人, 桌子
+![图片包含 游戏机, 星星描述已自动生成](images/image-7.png)
 
-描述已自动生成](images/image-4.png)
+![蓝色的星球描述已自动生成](images/image-8.png)
 
-![图片包含 形状
+![图形用户界面中度可信度描述已自动生成](images/image-9.png)
 
-描述已自动生成](images/image-5.png)
+![黑暗中的蓝色星球描述已自动生成](img/dengchujian_image-10.png)
 
-![图片包含 泡沫, 华美, 物体, 风筝
-
-描述已自动生成](images/image-6.png)
-
-![图片包含 游戏机, 星星
-
-描述已自动生成](images/image-7.png)
-
-![蓝色的星球
-
-描述已自动生成](images/image-8.png)
-
-![图形用户界面
-
-中度可信度描述已自动生成](images/image-9.png)
-
-![黑暗中的蓝色星球
-
-描述已自动生成](img/dengchujian_image-10.png)
-
-![杯子里的液体
-
-中度可信度描述已自动生成](img/dengchujian_image-11.png)
+![杯子里的液体中度可信度描述已自动生成](img/dengchujian_image-11.png)
 
 # 登出键
 
