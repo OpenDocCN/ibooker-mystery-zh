@@ -2,5 +2,6 @@
 +   [打开打开记录的钥匙](akaxiyaoshi.md)
 +   [登出键](dengchujian.md)
 +   [光之手 1](guangzhishou1.md)
++   [光之手 2](guangzhishou2.md)
 +   [灵魂的出生前计划](linghunchushengqian.md)
 +   [从未知中解脱](weizhizhongjietuo.md)
