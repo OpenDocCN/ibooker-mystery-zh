@@ -7,3 +7,4 @@
 +   [塔罗系列](docs/tarot/README.md)
 +   [面向初学者的威卡咒语和巫术书](docs/wicca-book-spell-witchcraft-begin/README.md)
 +   [威卡魔法入门书](docs/wicca-magic-start-kit/README.md)
++   [吸引力/显化法则](docs/xianhua/README.md)
