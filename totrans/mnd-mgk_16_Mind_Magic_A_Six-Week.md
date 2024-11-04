@@ -1,4 +1,4 @@
-![](../images/shutterstock_1643121877_Converted_2.jpg)
+![](img/shutterstock_1643121877_Converted_2.jpg)
 
 # 心灵魔法：
 

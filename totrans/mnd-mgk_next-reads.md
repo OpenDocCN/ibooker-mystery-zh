@@ -1,4 +1,4 @@
-![企鹅兰登书屋出版社标志。](../images/next-reads_logo.jpg)
+![企鹅兰登书屋出版社标志。](img/next-reads_logo.jpg)
 
 # 接下来是什么
 

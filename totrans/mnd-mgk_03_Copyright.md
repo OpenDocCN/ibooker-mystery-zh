@@ -1,4 +1,4 @@
-![](../images/Avery_Logo_copyright.jpg)
+![](img/Avery_Logo_copyright.jpg)
 
 企鹅兰登书屋（Penguin Random House LLC）旗下的品牌
 
@@ -10,7 +10,7 @@
 
 国会图书馆出版目录数据
 
-作者：詹姆斯·R·多提（James Robert Doty），1955年出生。
+作者：詹姆斯·R·多提（James Robert Doty），1955 年出生。
 
 书名：《心灵魔法：显现的神经科学及其如何改变一切》/ 詹姆斯·R·多提，医学博士
 
@@ -22,9 +22,9 @@
 
 分类：LCC BF637.S4 D68 2024（印刷本）| LCC BF637.S4（电子书）| DDC 158.1—dc23/eng/20240130
 
-LC记录可在 [https://lccn.loc.gov/2023043632](https://lccn.loc.gov/2023043632) 查阅
+LC 记录可在 [`lccn.loc.gov/2023043632`](https://lccn.loc.gov/2023043632) 查阅
 
-电子书记录可在 [https://lccn.loc.gov/2023043633](https://lccn.loc.gov/2023043633) 查阅
+电子书记录可在 [`lccn.loc.gov/2023043633`](https://lccn.loc.gov/2023043633) 查阅
 
 封面设计：杰斯·莫菲（Jess Morphew）
 
