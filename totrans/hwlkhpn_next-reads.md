@@ -1,4 +1,4 @@
-![企鹅兰登书屋 下一本书推荐标志](../image/next-reads_logo.jpg) ![企鹅兰登书屋 下一本书推荐标志](../image/next-reads_logo.jpg)
+![企鹅兰登书屋 下一本书推荐标志](img/next-reads_logo.jpg) ![企鹅兰登书屋 下一本书推荐标志](img/next-reads_logo.jpg)
 
 # *接下来是什么
 

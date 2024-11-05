@@ -1,4 +1,4 @@
-![](../image/DuttonDLogoCR.jpg)
+![](img/DuttonDLogoCR.jpg)
 
 Penguin Random House LLC 的印记
 
@@ -6,7 +6,7 @@ Penguin Random House LLC 的印记
 
 纽约，纽约 10014
 
-![](../image/penguin_black.jpg)
+![](img/penguin_black.jpg)
 
 版权 © 2018 Janice Kaplan 和 Barnaby Marsh
 
@@ -20,7 +20,7 @@ DUTTON 和 D 字标是 Penguin Random House LLC 的注册商标。
 
 标题：《幸运如何发生：运用全新的幸运科学来转变工作、爱情与人生》/ Janice Kaplan, Barnaby Marsh
 
-描述：第1版。| 纽约：Dutton，2018年。
+描述：第 1 版。| 纽约：Dutton，2018 年。
 
 标识符：LCCN 2017035996（印刷版）| LCCN 2017041723（电子书）| ISBN 9781101986400（电子书）| ISBN 9781101986394（精装本）| ISBN 9781524743284（出口版）
 
@@ -32,4 +32,4 @@ LC 记录可通过 https://lccn.loc.gov/2017035996 查阅
 
 尽管作者已经尽力提供准确的电话号码、互联网地址以及其他联系信息，但无论是出版商还是作者，都不对出版后发生的错误或更改负责。此外，出版商不控制也不对作者或第三方网站及其内容负责。
 
-版本_1
+版本 _1
