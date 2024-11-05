@@ -3,10 +3,12 @@
   prefs:
   - PREF_H1
   type: TYPE_NORMAL
+  zh: 注释
 - en: 'Chapter One: Prepare to Be Lucky'
   id: totrans-1
   prefs: []
   type: TYPE_NORMAL
+  zh: 第一章：准备迎接好运
 - en: The French microbiologist Louis Pasteur saved millions of lives in the nineteenth
     century (and into today) when he figured out the process for pasteurizing milk
     and later created a vaccine against rabies. One of the first people to understand
@@ -19,10 +21,12 @@
   id: totrans-2
   prefs: []
   type: TYPE_NORMAL
+  zh: 法国微生物学家路易·巴斯德在十九世纪（并延续到今天）拯救了数百万条生命，当他发现了巴氏灭菌法并随后研发出了狂犬病疫苗。他是最早理解细菌如何引发疾病的人之一，并且他驳斥了自亚里士多德以来流传的（错误的）科学观点。对于那些对他突破性发现感到惊讶的人，他曾名言道：“好运青睐有准备的头脑。”的确，他的发现是在法国斯特拉斯堡和里尔的实验室里经过多年复杂实验后才取得的。凭借他极为充分的准备，他为自己和数百万其他人创造了好运。
 - en: 'Chapter Three: Pick the Statistic You Want to Be'
   id: totrans-3
   prefs: []
   type: TYPE_NORMAL
+  zh: 第三章：选择你想要的统计数据
 - en: 'The birthday party problem is a *problem* only because our minds don’t naturally
     understand exponents and statistics. The question is: How many people do you need
     for it to be likely that two of them will have the same birthday? It turns out
@@ -31,6 +35,7 @@
   id: totrans-4
   prefs: []
   type: TYPE_NORMAL
+  zh: 生日派对问题之所以是一个*问题*，是因为我们的思维方式并不自然地理解指数运算和统计学。问题是：你需要多少人，才能确保两个人有相同的生日？事实证明，一旦房间里有23个人，就有50%的几率他们中有两个人生日相同。70个人时，这个几率达到99.9%。
 - en: The first stumbling block is that when you think of two people in a room having
     the same birthday, you immediately think of someone having *your* birthday. In
     that room of 23 people, you would compare yourself to the other 22 partygoers
@@ -42,6 +47,8 @@
   id: totrans-5
   prefs: []
   type: TYPE_NORMAL
+  zh: 第一个绊脚石是，当你想到房间里有两个人生日相同时，你立刻会想到某人和*你*的生日相同。在那个23人的房间里，你会把自己和其他22位派对嘉宾作对比，看是否有人和你共享生日（你与A，
+    你与B， 你与C……）。但这是一个完全不同的问题！把自己排除在外，因为也许你旁边的那个人和房间对面那个女孩有相同的生日。如果你做所有*这些*比较（A与B，A与C，B与C……），就有253次机会能找到匹配。
 - en: Mathematicians say that the simplest (well, maybe) approach is to flip the problem
     around and look at the people who do *not* share a birthday. Since there are 365
     days in a year (without February 29), the probability of person A *not* sharing
@@ -56,15 +63,19 @@
   id: totrans-6
   prefs: []
   type: TYPE_NORMAL
+  zh: 数学家们表示，最简单（嗯，也许）的方法是把问题翻转过来，看看那些*没有*同一天生日的人。由于一年有365天（不包括2月29日），所以A和B没有相同生日的概率是364/365（即99.7%）。我们已经说过，在那个23人的房间里，总共有253次比较，所以公式变成了（364/365）^253。用一个好的计算器，你会发现，所有253次比较中没有匹配的概率是49.95%。这意味着有50.05%的机会会有匹配。好极了！你现在已经证明了，在23个人的情况下，两个人有相同生日的几率大于50%!
+    你可以用同样的方法计算70个人，发现这个几率已经飙升到99.9%。要达到100%的几率，是另外一个问题。为此，你需要366个人。
 - en: 'Chapter Four: Skate to Where the Puck Will Be'
   id: totrans-7
   prefs: []
   type: TYPE_NORMAL
+  zh: 第四章：滑向冰球将要去的地方
 - en: 'The Gretzky conversation is adapted from his autobiography, *Gretzky: An Autobiography*
     (HarperCollins Publishers Canada, 1990).'
   id: totrans-8
   prefs: []
   type: TYPE_NORMAL
+  zh: 格雷茨基的对话摘自他的自传，*格雷茨基：自传*（哈珀·柯林斯出版社，加拿大，1990年）。
 - en: According to the Nielsen numbers from 2016, Americans spend an average of 4
     hours and 31 minutes per day watching television, with another 58 minutes on DVD
     or Blu-ray. They average 1 hour and 39 minutes with apps/web on their smartphones
@@ -75,6 +86,7 @@
   id: totrans-9
   prefs: []
   type: TYPE_NORMAL
+  zh: 根据尼尔森2016年的数据，美国人平均每天花费4小时31分钟看电视，另有58分钟观看DVD或蓝光光盘。他们平均花1小时39分钟在智能手机上的应用程序/网页上，以及31分钟在平板电脑上的应用程序/网页上。12至17岁年龄段的人群以及18至24岁的人群在看电视时间上大约只有其他人群的一半，但他们花在手机应用上的时间几乎是其他人的两倍。
 - en: The *New York Times* analysis that only 20 percent of Americans live more than
     a couple of hours’ drive from their moms appeared in *The Upshot*, December 23,
     2015, by Quoctrung Bui and Claire Cain Miller. People of lower income and education
@@ -84,11 +96,14 @@
   id: totrans-10
   prefs: []
   type: TYPE_NORMAL
+  zh: 《*纽约时报*》分析显示，只有20%的美国人住在距离母亲家超过两小时车程的地方，文章发表于2015年12月23日的*The Upshot*版，由Quoctrung
+    Bui和Claire Cain Miller撰写。收入和教育水平较低的人倾向于住得离家近一些，或许是因为他们的大家庭能提供诸如儿童看护和老年照护等支持，而这些服务费用昂贵且没有政府补贴。他们在迁移方面的困难限制了他们的运气创造潜力。
 - en: The Facebook series of introductions is described in *The Facebook Effect* by
     David Kirkpatrick (Simon & Schuster, 2010).
   id: totrans-11
   prefs: []
   type: TYPE_NORMAL
+  zh: Facebook系列介绍见David Kirkpatrick的《*Facebook效应*》（Simon & Schuster，2010年）。
 - en: Ideal free distribution is the principle that organisms will distribute themselves
     in ways that correspond with the prevalence of opportunities or resources. Out
     in the wild, resource-rich areas will attract and sustain larger populations than
@@ -98,10 +113,12 @@
   id: totrans-12
   prefs: []
   type: TYPE_NORMAL
+  zh: 理想自由分布是一个原则，即生物体会以与机会或资源的普及程度相对应的方式进行分布。在野外，资源丰富的地区会吸引并维持比资源稀缺地区更多的种群。当一个地区有不同的局部条件时，生物体（无论是植物、动物，还是寻找约会的男性）不会以均匀的方式分布。
 - en: 'Chapter Six: Zig When Others Zag'
   id: totrans-13
   prefs: []
   type: TYPE_NORMAL
+  zh: 第六章：当别人采取反向行动时，你也要走自己的路
 - en: For James Watson, pushing the boundaries led to a Nobel Prize—but it also led
     to controversy. Comments he made about intelligence and race in 2007 caused such
     dissension that he was dropped from the boards of companies and forced to retire
@@ -113,6 +130,7 @@
   id: totrans-14
   prefs: []
   type: TYPE_NORMAL
+  zh: 对詹姆斯·沃森来说，突破边界为他赢得了诺贝尔奖——但也带来了争议。他在2007年关于智力和种族的言论引起了极大的分歧，以至于他被从多个公司董事会中除名，并被迫从至少一个学术职位上退休。他最终感到自己像一个被社会排斥的人，以至于他在佳士得拍卖行将自己的诺贝尔奖奖章拍卖掉，他当时说：“没有人真的愿意承认我存在。”一位俄罗斯亿万富翁以超过400万美元的价格购买了这枚奖章——然后将其归还给沃森博士，称：“他因发现DNA结构而获得的奖项应该属于他。”
 - en: The British television shows that preceded *American Idol* included *Popstars*
     and *Making the Band*. Mike Darnell admired *Making the Band* and thought the
     most interesting part of it was the auditions—so he was excited about *American
@@ -120,12 +138,15 @@
   id: totrans-15
   prefs: []
   type: TYPE_NORMAL
+  zh: 在《*美国偶像*》之前的英国电视节目包括《*Popstars*》和《*Making the Band*》。Mike Darnell非常欣赏《*Making
+    the Band*》，认为其中最有趣的部分是选拔赛——因此他对《*美国偶像*》非常兴奋，因为这基本上就是全程选拔。
 - en: 'The British biologists P. M. Driver and D. A. Humphries, who studied animal
     behavior, wrote the book *Protean Behaviour: The Biology of Unpredictability*
     (Oxford University Press, 1988), from which this information is adapted.'
   id: totrans-16
   prefs: []
   type: TYPE_NORMAL
+  zh: 研究动物行为的英国生物学家P. M. Driver和D. A. Humphries写了《*变形行为：不可预测性的生物学*》（牛津大学出版社，1988年），本文中的信息来源于该书。
 - en: Psychologist Stanley Milgram got wide attention for research he did in 1967
     sending packages to 160 people in Omaha, Nebraska, and asking them to forward
     it to someone they knew personally—on the way to its getting to a particular stockbrocker
@@ -143,10 +164,12 @@
   id: totrans-17
   prefs: []
   type: TYPE_NORMAL
+  zh: 心理学家斯坦利·米尔格拉姆因1967年进行的一项研究而广泛关注，他向内布拉斯加州奥马哈的160人发送包裹，并要求他们将包裹转交给他们认识的某个人——最终包裹会到达波士顿的一位特定股票经纪人手中。尽管该项目存在严重缺陷，米尔格拉姆得出结论，平均每个包裹经过了五个中间环节（因此从开始到结束是六度关系）。但这个想法并非完全原创。匈牙利作家弗里吉耶什·卡林西于1929年发表了一篇小说，提出当时全球15亿人口中的任何两个人都可以通过五个环节相互联系。这个概念经历了许多版本。在1999年，三位嘉宾在《每日秀》节目中与乔恩·斯图尔特一起解释了好莱坞的每个人如何通过与演员凯文·贝肯合作过电影（或与曾经参与电影的人合作过）而产生联系。*凯文·贝肯的六度关系*后来成为一本书、一款桌面游戏和一档电视节目。尽管贝肯最初试图与这一想法保持距离，但最终他还是接受了这一概念。（他怎么能不接受呢？他离凯文·贝肯是零度关系。）
 - en: 'Chapter Seven: The Power of Persistence and Passion'
   id: totrans-18
   prefs: []
   type: TYPE_NORMAL
+  zh: 第七章：坚持与热情的力量
 - en: The research Daniel Kahneman used was initially done to analyze the impacts
     of higher education. But he looked closely at the data to pull his own interesting
     conclusions and describes them in his award-winning book *Thinking, Fast and Slow*
@@ -154,6 +177,8 @@
   id: totrans-19
   prefs: []
   type: TYPE_NORMAL
+  zh: 丹尼尔·卡尼曼使用的研究最初是用来分析高等教育的影响的。但他仔细研究数据，得出了自己感兴趣的结论，并在他的获奖著作《快思慢想》（Farrar, Straus
+    and Giroux, 2011）中进行了描述。
 - en: 'Given the startling number of cartoons that got submitted to Bob Mankoff each
     week, you could be rejected and still get lucky—by appearing in one of the books
     of rejected *New Yorker* cartoons. One favorite is *The Rejection Collection:
@@ -165,6 +190,8 @@
   id: totrans-20
   prefs: []
   type: TYPE_NORMAL
+  zh: 鉴于每周提交给鲍勃·曼科夫的大量漫画，你可能会被拒绝，但仍然有可能幸运——出现在被拒绝的*《纽约客》*漫画集之一。一本最受欢迎的书是《拒绝集：你从未见过的漫画，也永远不会在*《纽约客》*上看到》（Gallery
+    Books, 2006）。它非常受欢迎，以至于第二卷《拒绝集》随后出版，副标题为《垃圾中的精华》（Gallery Books, 2007）。与此同时，*《纽约客》*漫画家萨姆·格罗斯表示，他已经为过去几十年里提交给杂志的每一幅漫画编号，现在他已经有超过12,000次的拒绝记录。
 - en: 'Dr. Martin Seligman did his earliest research in how helplessness develops.
     He eventually turned the subject around to study how you can develop positive
     views and wrote an important book in the field, *Learned Optimism* (Alfred A.
@@ -175,10 +202,14 @@
   id: totrans-21
   prefs: []
   type: TYPE_NORMAL
+  zh: 马丁·塞利格曼博士最早的研究是关于无助感是如何发展的。最终，他将研究转向了如何培养积极的看法，并写了一本在该领域具有重要影响的书《学会乐观》（Alfred
+    A. Knopf, 1991）。他关于积极心理学的观点在许多书籍中得到了进一步阐述，包括《真实幸福：利用积极心理学实现持久成就》（Free Press, 2002）和《繁荣：对幸福与福祉的新视角》（Free
+    Press, 2011）。
 - en: 'Chapter Eight: How Many Eggs in Your Basket? (And How Many Baskets?)'
   id: totrans-22
   prefs: []
   type: TYPE_NORMAL
+  zh: 第八章：你的篮子里有多少个鸡蛋？（以及多少个篮子？）
 - en: 'The Fred Smith story is told in the book *Changing How the World Does Business:
     FedEx’s Incredible Journey to Success—The Inside Story* by Roger Frock (Berrett-Koehler
     Publishers, 2006). Frock is a former senior vice-president of operations at FedEx
@@ -186,10 +217,12 @@
   id: totrans-23
   prefs: []
   type: TYPE_NORMAL
+  zh: Fred Smith的故事出现在Roger Frock的书《改变世界商业方式：FedEx通往成功的不可思议之旅——内情故事》（Berrett-Koehler出版社，2006年）中。Frock是FedEx前高级副总裁，他是在那个黑杰克周末后与Smith交谈的那个人。
 - en: 'Chapter Nine: The Lucky Break That Really Counts'
   id: totrans-24
   prefs: []
   type: TYPE_NORMAL
+  zh: 第九章：真正重要的好运
 - en: The lucky penny problem is an example of the power of multipliers. If you’re
     just adding a penny every day, you need longer than 27,000 years to get to that
     ten million dollars. But doubling an amount changes it quickly. You start off
@@ -199,161 +232,193 @@
   id: totrans-25
   prefs: []
   type: TYPE_NORMAL
+  zh: 幸运的便士问题是乘数效应的一个例子。如果你每天只加一个便士，那么需要超过27,000年才能达到那一千万美元。但如果翻倍增加，变化就很快了。一开始你慢慢来，第一周，便士从1美分变到2美分、4美分、8美分、16美分、32美分、64美分。虽然不太令人满意，但如果你在3月挑战这个问题，整个图表将会是这样的。
 - en: '**March 1:** $0.01'
   id: totrans-26
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月1日：** $0.01'
 - en: '**March 2:** $0.02'
   id: totrans-27
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月2日：** $0.02'
 - en: '**March 3:** $0.04'
   id: totrans-28
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月3日：** $0.04'
 - en: '**March 4:** $0.08'
   id: totrans-29
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月4日：** $0.08'
 - en: '**March 5:** $0.16'
   id: totrans-30
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月5日：** $0.16'
 - en: '**March 6:** $0.32'
   id: totrans-31
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月6日：** $0.32'
 - en: '**March 7:** $0.64'
   id: totrans-32
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月7日：** $0.64'
 - en: '**March 8:** $1.28'
   id: totrans-33
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月8日：** $1.28'
 - en: '**March 9:** $2.56'
   id: totrans-34
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月9日：** $2.56'
 - en: '**March 10:** $5.12'
   id: totrans-35
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月10日：** $5.12'
 - en: '**March 11:** $10.24'
   id: totrans-36
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月11日：** $10.24'
 - en: '**March 12:** $20.48'
   id: totrans-37
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月12日：** $20.48'
 - en: '**March 13:** $40.96'
   id: totrans-38
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月13日：** $40.96'
 - en: '**March 14:** $81.92'
   id: totrans-39
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月14日：** $81.92'
 - en: '**March 15:** $163.84'
   id: totrans-40
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月15日：** $163.84'
 - en: '**March 16:** $327.68'
   id: totrans-41
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月16日：** $327.68'
 - en: '**March 17:** $655.36'
   id: totrans-42
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月17日：** $655.36'
 - en: '**March 18:** $1,310.72'
   id: totrans-43
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月18日：** $1,310.72'
 - en: '**March 19:** $2,621.44'
   id: totrans-44
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月19日：** $2,621.44'
 - en: '**March 20:** $5,242.88'
   id: totrans-45
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月20日：** $5,242.88'
 - en: '**March 21:** $10,485.76'
   id: totrans-46
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月21日：** $10,485.76'
 - en: '**March 22:** $20,971.52'
   id: totrans-47
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月22日：** $20,971.52'
 - en: '**March 23:** $41,943.04'
   id: totrans-48
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月23日：** $41,943.04'
 - en: '**March 24:** $83,886.08'
   id: totrans-49
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月24日：** $83,886.08'
 - en: '**March 25:** $167,772.16'
   id: totrans-50
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月25日：** $167,772.16'
 - en: '**March 26:** $335,544.32'
   id: totrans-51
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月26日：** $335,544.32'
 - en: '**March 27:** $671,088.64'
   id: totrans-52
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月27日：** $671,088.64'
 - en: '**March 28:** $1,342,177.28'
   id: totrans-53
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月28日：** $1,342,177.28'
 - en: '**March 29:** $2,684,354.56'
   id: totrans-54
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月29日：** $2,684,354.56'
 - en: '**March 30:** $5,368,709.12'
   id: totrans-55
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月30日：** $5,368,709.12'
 - en: '**March 31:** $10,737,418.24'
   id: totrans-56
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**3月31日：** $10,737,418.24'
 - en: You would be better doing this game in March (31 days) instead of February (28
     days)—because as the chart shows, there would be a difference of more than nine
     million dollars. Once the numbers start getting big, they get big very fast. Of
@@ -362,6 +427,7 @@
   id: totrans-57
   prefs: []
   type: TYPE_NORMAL
+  zh: 你最好在3月（31天）而不是2月（28天）进行这个游戏——因为如图所示，差距将超过九百万美元。一旦数字开始变大，它们增长得非常快。当然，如果你知道现实中有谁提供这种机会，而不仅仅是理论，请给我们打个电话。
 - en: The geographic breakdown of MacArthur fellows is very interesting. The most
     populous states in the United States are currently (in order) California, Texas,
     Florida, and New York. In terms of where winners were born, Florida and Texas
@@ -372,10 +438,12 @@
   id: totrans-58
   prefs: []
   type: TYPE_NORMAL
+  zh: MacArthur奖学者的地理分布非常有趣。美国当前人口最多的州依次是加利福尼亚州、德克萨斯州、佛罗里达州和纽约州。就获奖者的出生地而言，佛罗里达州和德克萨斯州排在后面，且当获奖者在获奖时居住在这两个州的人数更少。纽约州，虽然人口排名第四，却是出生地和获奖时居住地的第一名。
 - en: 'Chapter Eleven: Get Lucky in Love'
   id: totrans-59
   prefs: []
   type: TYPE_NORMAL
+  zh: 第十一章：爱情中的好运
 - en: 'Helen Fisher’s study on dopamine was published in 2005 in the *Journal of Comparative
     Neurology* (493: 58–62). The article was called “Romantic Love: An fMRI Study
     of a Neural Mechanism for Mate Choice.” She conducted the research with Arthur
@@ -385,60 +453,74 @@
   id: totrans-60
   prefs: []
   type: TYPE_NORMAL
+  zh: Helen Fisher关于多巴胺的研究发表于2005年，刊登在《比较神经学杂志》上（493：58–62）。这篇文章名为《浪漫爱情：一种用于配偶选择的神经机制fMRI研究》。她与Arthur
+    Aron共同在纽约州立大学石溪分校心理学系进行这项研究，Lucy Brown来自纽约阿尔伯特·爱因斯坦医学院神经学与神经科学系。
 - en: 'Chapter Fourteen: The Ambulance in Your Backyard'
   id: totrans-61
   prefs: []
   type: TYPE_NORMAL
+  zh: 第十四章：你家后院的救护车
 - en: The Harvard School of Public Health study was published in 2009 in the online
     journal *PLOS*. It was led by researchers form the Harvard School of Public Health
     and collaborators from the University of Toronto and the University of Washington.
   id: totrans-62
   prefs: []
   type: TYPE_NORMAL
+  zh: 哈佛公共卫生学院的研究发表于2009年在线期刊*《PLOS》*。该研究由哈佛公共卫生学院的研究人员和多伦多大学及华盛顿大学的合作研究人员共同领导。
 - en: Information on shark attacks and other animal-caused fatalities in the United
     States between 2001 and 2013 is from the CDC’s Wonder database.
   id: totrans-63
   prefs: []
   type: TYPE_NORMAL
+  zh: 关于2001年至2013年期间美国鲨鱼攻击和其他动物致死事件的信息来自CDC的Wonder数据库。
 - en: Quotes from Dr. James Andrews and Dr. Christopher DiGiovanni are from the article
     “Sports Medicine Said to Overuse M.R.I.’s” by Gina Kolata, which appeared in *The
     New York Times* on October 28, 2011.
   id: totrans-64
   prefs: []
   type: TYPE_NORMAL
+  zh: 引用Dr. James Andrews和Dr. Christopher DiGiovanni的话，摘自Gina Kolata在2011年10月28日刊登在*《纽约时报》*的文章《Sports
+    Medicine Said to Overuse M.R.I.’s》。
 - en: 'Bayes’ theorem is stated mathematically as the following equation:'
   id: totrans-65
   prefs: []
   type: TYPE_NORMAL
+  zh: 贝叶斯定理的数学表达式为以下方程：
 - en: P(A/B) = P(B/A)P(A)
   id: totrans-66
   prefs: []
   type: TYPE_NORMAL
+  zh: P(A/B) = P(B/A)P(A)
 - en: P(B)
   id: totrans-67
   prefs: []
   type: TYPE_NORMAL
+  zh: P(B)
 - en: Where *A* and *B* are events and P(B) ≠ 0.
   id: totrans-68
   prefs: []
   type: TYPE_NORMAL
+  zh: 其中*A*和*B*是事件，并且P(B) ≠ 0。
 - en: P(A) and P(B) are the probabilities of observing *A* and *B* without regard
     to each other.
   id: totrans-69
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: P(A)和P(B)是观察到事件*A*和*B*的概率，而不考虑它们之间的关系。
 - en: P(A/B), a conditional probability, is the probability of observing event *A*
     given that *B* is true.
   id: totrans-70
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: P(A/B)，即条件概率，是指在事件*B*成立的情况下，观察到事件*A*的概率。
 - en: P(B/A) is the probability of observing event *B* given that *A* is true.
   id: totrans-71
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: P(B/A)是指在事件*A*成立的情况下，观察到事件*B*的概率。
 - en: Okay, that’s a little confusing. But the math works, and the basic point is
     that you have to understand the probabilities of different kinds of events before
     you can make an accurate prediction. That’s why, in the example we gave, a positive
@@ -447,6 +529,7 @@
   id: totrans-72
   prefs: []
   type: TYPE_NORMAL
+  zh: 好的，这有点儿令人困惑。但数学是成立的，基本的观点是，在做出准确预测之前，你必须理解不同类型事件的概率。这就是为什么在我们给出的例子中，即使一个90%准确的医学测试结果为阳性，仍然可能意味着你患病的概率只有1%。
 - en: The studies on American health care were reported in the UK medical journal
     *The Lancet*. Another study, in the April 2016 issue of *JAMA,* showed the differences
     in longevity based on where people live within the United States. The poor in
@@ -454,6 +537,7 @@
   id: totrans-73
   prefs: []
   type: TYPE_NORMAL
+  zh: 关于美国医疗保健的研究发表于英国医学期刊*《The Lancet》*。另一项研究则发表于2016年4月的*《JAMA》*期刊，显示了美国不同地区人群寿命的差异。大城市中的贫困群体的寿命往往与他们中产阶级邻居的寿命接近。
 - en: 'Estimates that 25 percent of longevity comes from genes are reported in the
     article “Human Longevity: Genetics or Lifestyle? It Takes Two to Tango” by Giuseppe
     Passarino, Francesco De Rango, and Alberto Montesanto, published in 2016 in *Immunity
@@ -461,6 +545,9 @@
   id: totrans-74
   prefs: []
   type: TYPE_NORMAL
+  zh: '关于基因对长寿影响的估计（认为25%的长寿来源于基因）摘自Giuseppe Passarino、Francesco De Rango和Alberto
+    Montesanto于2016年发表在*《Immunity & Ageing》*上的文章《Human Longevity: Genetics or Lifestyle?
+    It Takes Two to Tango》。'
 - en: Many of the billionaires in Silicon Valley are now sinking huge sums of money
     into projects looking for ways to increase life-span. Google put a billion dollars
     into the launch of a company called Calico (short for California Life Company)
@@ -470,21 +557,28 @@
   id: totrans-75
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，硅谷的许多亿万富翁正在投入巨额资金，寻找延长寿命的方法。谷歌投入了10亿美元启动了一家名为Calico（加利福尼亚生命公司，California
+    Life Company）的公司，专注于研究减缓衰老和抵抗与年龄相关疾病的干预措施。许多资金充足的生物技术初创公司和研究实验室也在研究如何让我们每个人都有幸活得更长（而且更健康）。
 - en: 'Chapter Fifteen: How to Get Lucky in a Disaster (Natural or Otherwise)'
   id: totrans-76
   prefs: []
   type: TYPE_NORMAL
+  zh: 第十五章：如何在灾难中获得好运（无论是自然灾难还是其他）
 - en: 'Quote from Stephen Grosz from *The Examined* *Life: How We Lose and Find Ourselves*
     (W. W. Norton, 2013).'
   id: totrans-77
   prefs: []
   type: TYPE_NORMAL
+  zh: '引用Stephen Grosz的话，摘自*《The Examined Life: How We Lose and Find Ourselves》*（W.
+    W. Norton，2013年）。'
 - en: 'Quote from pilot John Wiley (and information about flight 1549 being “extremely
     rare”) from *Popular Mechanics* article “What Went Right: Flight 1549 Airbus A-320’s
     Ditch into the Hudson,” September 30, 2009.'
   id: totrans-78
   prefs: []
   type: TYPE_NORMAL
+  zh: '引用飞行员John Wiley的话（以及关于1549航班“极为罕见”的信息），摘自*《Popular Mechanics》*文章《What Went
+    Right: Flight 1549 Airbus A-320’s Ditch into the Hudson》，2009年9月30日。'
 - en: In a study of 568 commercial crashes between 1983 and 2000, involving 53,487
     passengers, 52,207 survived. This was reported in “Survivability of Accidents
     Involving Part 121 U.S. Air Carrier Operations, 1983 Through 2000,” a safety report
