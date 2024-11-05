@@ -1,6 +1,6 @@
 # 运气如何发生
 
-![《运气如何发生》封面](img/cover.jpg)
+![《运气如何发生》封面](img/hwlkhpn_cover.jpg)
 
 # 贾尼斯·卡普兰所著
 
