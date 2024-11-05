@@ -1,0 +1,438 @@
+- en: Notes
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: 'Chapter One: Prepare to Be Lucky'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The French microbiologist Louis Pasteur saved millions of lives in the nineteenth
+    century (and into today) when he figured out the process for pasteurizing milk
+    and later created a vaccine against rabies. One of the first people to understand
+    how germs cause disease, he refuted (incorrect) scientific ideas that had been
+    around since Aristotle. To those who marveled at his breakthroughs, he famously
+    pointed out that “luck favors the prepared mind.” And indeed, his discoveries
+    came only after years of complex experiments in his labs in Strasbourg and Lille,
+    France. With his very extensive preparation, he had a nice run of making luck
+    for himself and millions of others.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter Three: Pick the Statistic You Want to Be'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The birthday party problem is a *problem* only because our minds don’t naturally
+    understand exponents and statistics. The question is: How many people do you need
+    for it to be likely that two of them will have the same birthday? It turns out
+    that once you have 23 people in a room, there’s a fifty-fifty chance of two of
+    them having the same birthday. With 70 people, there’s a 99.9 percent chance.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The first stumbling block is that when you think of two people in a room having
+    the same birthday, you immediately think of someone having *your* birthday. In
+    that room of 23 people, you would compare yourself to the other 22 partygoers
+    to see if someone shared your birthday (you to person A, you to person B, you
+    to person C . . .). But that’s a very different problem! Leave yourself out of
+    it, because maybe the guy next to you has the same birthday as the girl across
+    the room. If you make all *those* comparisons (Person A to person B, person A
+    to person C, person B to person C. . .), there are 253 chances to make a match.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Mathematicians say that the simplest (well, maybe) approach is to flip the problem
+    around and look at the people who do *not* share a birthday. Since there are 365
+    days in a year (without February 29), the probability of person A *not* sharing
+    a birthday with person B is 364/365 (or 99.7 percent). We’ve already said that
+    in that room of 23, there are 253 comparisons, so the equation becomes (364/365)253.
+    With a good calculator, you’ll find there’s a 49.95 chance that all 253 comparisons
+    contain no matches. That means there’s a 50.05 percent chance that there *is*
+    a match. Bravo! You’ve now proved that with 23 people, the odds of two people
+    sharing a birthday are better than even! You can do the same math with 70 people
+    and find out that the likelihood has soared to 99.9 percent. Getting to 100 percent
+    is a different story. For that, you need 366 people.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter Four: Skate to Where the Puck Will Be'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The Gretzky conversation is adapted from his autobiography, *Gretzky: An Autobiography*
+    (HarperCollins Publishers Canada, 1990).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: According to the Nielsen numbers from 2016, Americans spend an average of 4
+    hours and 31 minutes per day watching television, with another 58 minutes on DVD
+    or Blu-ray. They average 1 hour and 39 minutes with apps/web on their smartphones
+    and 31 minutes with apps/web on a tablet. The numbers are dramatically different
+    for those in the age groups from twelve to seventeen and even from eighteen to
+    twenty-four, who watch half as much TV but spend almost twice as much time on
+    their phone apps.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The *New York Times* analysis that only 20 percent of Americans live more than
+    a couple of hours’ drive from their moms appeared in *The Upshot*, December 23,
+    2015, by Quoctrung Bui and Claire Cain Miller. People of lower income and education
+    tend to stay closest to home, perhaps because their extended family can offer
+    support such as child care and elder care, which can be expensive and isn’t supported
+    by the government. Their difficulties in moving restricts their luck-making potential.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Facebook series of introductions is described in *The Facebook Effect* by
+    David Kirkpatrick (Simon & Schuster, 2010).
+  prefs: []
+  type: TYPE_NORMAL
+- en: Ideal free distribution is the principle that organisms will distribute themselves
+    in ways that correspond with the prevalence of opportunities or resources. Out
+    in the wild, resource-rich areas will attract and sustain larger populations than
+    resource-sparse areas. When a landscape has different localized conditions, the
+    organisms (whether plants or animals or men looking for dates) will not be spread
+    in a uniform way.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter Six: Zig When Others Zag'
+  prefs: []
+  type: TYPE_NORMAL
+- en: For James Watson, pushing the boundaries led to a Nobel Prize—but it also led
+    to controversy. Comments he made about intelligence and race in 2007 caused such
+    dissension that he was dropped from the boards of companies and forced to retire
+    from at least one academic position. He eventually felt like such a pariah that
+    he put his Nobel Prize up for auction at Christie’s because, he said at the time,
+    “no one really wants to admit I exist.” A Russian billionaire paid more than $4
+    million to buy the medal—and then returned it to Dr. Watson, saying, “His award
+    for the discovery of DNA structure must belong to him.”
+  prefs: []
+  type: TYPE_NORMAL
+- en: The British television shows that preceded *American Idol* included *Popstars*
+    and *Making the Band*. Mike Darnell admired *Making the Band* and thought the
+    most interesting part of it was the auditions—so he was excited about *American
+    Idol* because it was essentially all auditions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The British biologists P. M. Driver and D. A. Humphries, who studied animal
+    behavior, wrote the book *Protean Behaviour: The Biology of Unpredictability*
+    (Oxford University Press, 1988), from which this information is adapted.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Psychologist Stanley Milgram got wide attention for research he did in 1967
+    sending packages to 160 people in Omaha, Nebraska, and asking them to forward
+    it to someone they knew personally—on the way to its getting to a particular stockbrocker
+    in Boston. Though the project had serious flaws, Milgram concluded that the average
+    package went through five intermediate hands (so six degrees first to last). But
+    the idea wasn’t completely original. Hungarian author Frigyes Karinthy published
+    a story in 1929 that presented the idea that any two of the (then) 1.5 billion
+    people in the world could be connected through five links. This concept has had
+    many iterations. In 1999, three guys appeared on *The Daily Show* with Jon Stewart
+    to explain how everyone in Hollywood was connected by having worked on a movie
+    (or worked with someone who worked on a movie) with actor Kevin Bacon. *Six Degrees
+    of Kevin Bacon* later became a book and a board game and the theme for a TV show.
+    While Bacon first tried to distance himself from the idea, he eventually embraced
+    it. (How could he not? He’s zero degrees from Kevin Bacon.)
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter Seven: The Power of Persistence and Passion'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The research Daniel Kahneman used was initially done to analyze the impacts
+    of higher education. But he looked closely at the data to pull his own interesting
+    conclusions and describes them in his award-winning book *Thinking, Fast and Slow*
+    (Farrar, Straus and Giroux, 2011).
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Given the startling number of cartoons that got submitted to Bob Mankoff each
+    week, you could be rejected and still get lucky—by appearing in one of the books
+    of rejected *New Yorker* cartoons. One favorite is *The Rejection Collection:
+    Cartoons You Never Saw, and Never Will See, in* The New Yorker (Gallery Books,
+    2006). It was so popular that a second volume of *The Rejection Collection* followed,
+    this one subtitled *The Cream of the Crap* (Gallery Books, 2007). Meantime *New
+    Yorker* cartoonist Sam Gross says he has numbered every cartoon he has submitted
+    to the magazine over the last decades, and he now has more than 12,000 rejections.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Dr. Martin Seligman did his earliest research in how helplessness develops.
+    He eventually turned the subject around to study how you can develop positive
+    views and wrote an important book in the field, *Learned Optimism* (Alfred A.
+    Knopf, 1991). His ideas on positive psychology continued to be well outlined in
+    numerous books, including *Authentic Happiness: Using the New Positive Psychology
+    to Realize Your Potential for Lasting Fulfillment *(Free Press, 2002) and *Flourish:*
+    *A Visionary New Understanding of Happiness and Well-being* (Free Press, 2011).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter Eight: How Many Eggs in Your Basket? (And How Many Baskets?)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'The Fred Smith story is told in the book *Changing How the World Does Business:
+    FedEx’s Incredible Journey to Success—The Inside Story* by Roger Frock (Berrett-Koehler
+    Publishers, 2006). Frock is a former senior vice-president of operations at FedEx
+    and the guy who had the conversation with Smith after that blackjack weekend.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter Nine: The Lucky Break That Really Counts'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The lucky penny problem is an example of the power of multipliers. If you’re
+    just adding a penny every day, you need longer than 27,000 years to get to that
+    ten million dollars. But doubling an amount changes it quickly. You start off
+    slowly, and the first week, the penny goes from 1 cent to 2 cents, 4, 8, 16, 32,
+    64 cents. Not very satisfying. But here’s what the whole chart would look if you
+    take the challenge in the month of March.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**March 1:** $0.01'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 2:** $0.02'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 3:** $0.04'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 4:** $0.08'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 5:** $0.16'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 6:** $0.32'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 7:** $0.64'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 8:** $1.28'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 9:** $2.56'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 10:** $5.12'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 11:** $10.24'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 12:** $20.48'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 13:** $40.96'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 14:** $81.92'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 15:** $163.84'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 16:** $327.68'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 17:** $655.36'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 18:** $1,310.72'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 19:** $2,621.44'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 20:** $5,242.88'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 21:** $10,485.76'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 22:** $20,971.52'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 23:** $41,943.04'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 24:** $83,886.08'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 25:** $167,772.16'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 26:** $335,544.32'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 27:** $671,088.64'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 28:** $1,342,177.28'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 29:** $2,684,354.56'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 30:** $5,368,709.12'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: '**March 31:** $10,737,418.24'
+  prefs:
+  - PREF_OL
+  type: TYPE_NORMAL
+- en: You would be better doing this game in March (31 days) instead of February (28
+    days)—because as the chart shows, there would be a difference of more than nine
+    million dollars. Once the numbers start getting big, they get big very fast. Of
+    course, if you know anybody who is offering this in real life and not just theory,
+    please give us a call.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The geographic breakdown of MacArthur fellows is very interesting. The most
+    populous states in the United States are currently (in order) California, Texas,
+    Florida, and New York. In terms of where winners were born, Florida and Texas
+    are far down the list, and the numbers drop even more for winners living in those
+    two states at the time of the award. New York, which is fourth in overall population,
+    is number one for both where winners were born and where they lived at the time
+    of the award.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter Eleven: Get Lucky in Love'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Helen Fisher’s study on dopamine was published in 2005 in the *Journal of Comparative
+    Neurology* (493: 58–62). The article was called “Romantic Love: An fMRI Study
+    of a Neural Mechanism for Mate Choice.” She conducted the research with Arthur
+    Aron at the department of psychology at the State University of New York at Stony
+    Brook and Lucy Brown, from the departments of neurology and neuroscience at Albert
+    Einstein College of Medicine in New York.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter Fourteen: The Ambulance in Your Backyard'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Harvard School of Public Health study was published in 2009 in the online
+    journal *PLOS*. It was led by researchers form the Harvard School of Public Health
+    and collaborators from the University of Toronto and the University of Washington.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Information on shark attacks and other animal-caused fatalities in the United
+    States between 2001 and 2013 is from the CDC’s Wonder database.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Quotes from Dr. James Andrews and Dr. Christopher DiGiovanni are from the article
+    “Sports Medicine Said to Overuse M.R.I.’s” by Gina Kolata, which appeared in *The
+    New York Times* on October 28, 2011.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Bayes’ theorem is stated mathematically as the following equation:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: P(A/B) = P(B/A)P(A)
+  prefs: []
+  type: TYPE_NORMAL
+- en: P(B)
+  prefs: []
+  type: TYPE_NORMAL
+- en: Where *A* and *B* are events and P(B) ≠ 0.
+  prefs: []
+  type: TYPE_NORMAL
+- en: P(A) and P(B) are the probabilities of observing *A* and *B* without regard
+    to each other.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: P(A/B), a conditional probability, is the probability of observing event *A*
+    given that *B* is true.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: P(B/A) is the probability of observing event *B* given that *A* is true.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Okay, that’s a little confusing. But the math works, and the basic point is
+    that you have to understand the probabilities of different kinds of events before
+    you can make an accurate prediction. That’s why, in the example we gave, a positive
+    medical test that’s 90 percent accurate could still mean that you have only a
+    1 percent chance of having the disease.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The studies on American health care were reported in the UK medical journal
+    *The Lancet*. Another study, in the April 2016 issue of *JAMA,* showed the differences
+    in longevity based on where people live within the United States. The poor in
+    big cities tended to have life-spans closest to their middle-class neighbors.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Estimates that 25 percent of longevity comes from genes are reported in the
+    article “Human Longevity: Genetics or Lifestyle? It Takes Two to Tango” by Giuseppe
+    Passarino, Francesco De Rango, and Alberto Montesanto, published in 2016 in *Immunity
+    & Ageing*.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Many of the billionaires in Silicon Valley are now sinking huge sums of money
+    into projects looking for ways to increase life-span. Google put a billion dollars
+    into the launch of a company called Calico (short for California Life Company)
+    dedicated to research into interventions that slow aging and counteract age-related
+    diseases. Numerous well-funded biotech start-ups and research labs are also studying
+    how to make us all lucky enough to live longer (and healthier).
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter Fifteen: How to Get Lucky in a Disaster (Natural or Otherwise)'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Quote from Stephen Grosz from *The Examined* *Life: How We Lose and Find Ourselves*
+    (W. W. Norton, 2013).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Quote from pilot John Wiley (and information about flight 1549 being “extremely
+    rare”) from *Popular Mechanics* article “What Went Right: Flight 1549 Airbus A-320’s
+    Ditch into the Hudson,” September 30, 2009.'
+  prefs: []
+  type: TYPE_NORMAL
+- en: In a study of 568 commercial crashes between 1983 and 2000, involving 53,487
+    passengers, 52,207 survived. This was reported in “Survivability of Accidents
+    Involving Part 121 U.S. Air Carrier Operations, 1983 Through 2000,” a safety report
+    issued by the National Transportation Safety Board, March 2001.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Joan Didion quote from her book *The Year of Magical Thinking* (Alfred A. Knopf,
+    2005).
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter Sixteen: The Lucky Path: Find Your Compass'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Joi Ito quote from the book *Whiplash: How to Survive Our Faster Future*, written
+    with Jeff Howe (Grand Central Publishing, 2016).'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Chapter Seventeen: The Lucky Attitude: Believe That You Can Make Luck'
+  prefs: []
+  type: TYPE_NORMAL
+- en: More insights by George Vaillant can be found in his book *Spiritual Evolution*
+    (Harmony Books, 2008).
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Deepak’s Homebase where we visited him is inside ABC Carpet & Home, the gorgeous
+    store on East 19th Street and Broadway in Manhattan. Some of Deepak Chopra’s ideas
+    here are summarized from his book *The Seven Spiritual Laws of Success: A Practical
+    Guide to the Fulfillment of Your Dreams* (New World Library, 1994).'
+  prefs: []
+  type: TYPE_NORMAL
