@@ -1,0 +1,1 @@
+[*](18_Chapter_Nine_The_Luck.xhtml#footnote-024-backlink) 如果你在二月收到加倍的 penny 的提议，要求等到三月再答复。二十八天与三十一天的差异在价值上非常大。（这就是加倍的力量。）

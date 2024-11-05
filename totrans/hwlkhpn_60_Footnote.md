@@ -1,0 +1,1 @@
+[*](20_Chapter_Ten_How_to_Ge.xhtml#footnote-028-backlink) 一件更令人好奇的事情是……威廉姆斯的父亲因丑闻被解除在NBC的职务，而马梅特的父亲则写了几部糟糕的戏剧。女儿们比父亲们更加成功。

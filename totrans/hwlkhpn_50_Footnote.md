@@ -1,0 +1,1 @@
+[*](16_Chapter_Seven_The_Pow.xhtml#footnote-012-backlink) 曼科夫在我们交谈后不久便从*《纽约客》*退休，现在是*《Esquire》*的漫画编辑。不管他在哪里，他都会继续保持幽默和富有洞察力。
