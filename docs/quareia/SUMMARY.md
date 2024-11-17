@@ -1,7 +1,7 @@
 +   [Quareia 魔法系列教程](README.md)
 +   [Quareia 魔法学徒第一卷](quareia-xuetu-01.md)
 +   [Quareia 魔法学徒第二卷](quareia-xuetu-02.md)
-+   [Quareia](quareia-xuetu-03.md)
++   [Quareia 魔法学徒第三卷](quareia-xuetu-03.md)
 +   [Quareia](quareia-xuetu-04.md)
 +   [Quareia](quareia-xuetu-05.md)
 +   [Quareia](quareia-xuetu-06.md)
