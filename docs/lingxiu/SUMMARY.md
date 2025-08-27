@@ -1,6 +1,7 @@
 +   [灵修系列](README.md)
 +   [打开打开记录的钥匙](akaxiyaoshi.md)
 +   [登出键](dengchujian.md)
++   [獨角獸能量療愈](dujiaoshou.md)
 +   [光之手 1](guangzhishou1.md)
 +   [光之手 2](guangzhishou2.md)
 +   [灵魂的出生前计划](linghunchushengqian.md)
