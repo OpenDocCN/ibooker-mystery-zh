@@ -7,3 +7,4 @@
 +   [土系魔法](tuximofa.md)
 +   [面向初学者的威卡咒语和巫术书](wicca-book-spell-witchcraft-begin.md)
 +   [威卡魔法入门书](wicca-magic-start-kit.md)
++   [月亮魔法](yueliangmofa.md)
