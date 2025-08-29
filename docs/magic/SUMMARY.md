@@ -1,5 +1,6 @@
 +   [魔法](README.md)
 +   [风系魔法](fengximofa.md)
++   [混沌魔法学习手册](hundunmofa.md)
 +   [火系魔法](huoximofa.md)
 +   [现代性魔法](mod-sex-magic.md)
 +   [巫术现代指南](mod-witchcraft.md)
