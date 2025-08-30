@@ -4,6 +4,7 @@
 +   [火系魔法](huoximofa.md)
 +   [现代性魔法](mod-sex-magic.md)
 +   [巫术现代指南](mod-witchcraft.md)
++   [当神秘学来敲门](shenmixuelaiqiaomen.md)
 +   [水系魔法](shuiximofa.md)
 +   [土系魔法](tuximofa.md)
 +   [面向初学者的威卡咒语和巫术书](wicca-book-spell-witchcraft-begin.md)
