@@ -1,3 +1,4 @@
 +   [塔罗系列](README.md)
++   [其实你已经很塔罗了](hentaluo.md)
 +   [漫步灵魂森林](manbulinghunsenlin.md)
 +   [跟着大师学塔罗逆位牌](taluoniweipai.md)
