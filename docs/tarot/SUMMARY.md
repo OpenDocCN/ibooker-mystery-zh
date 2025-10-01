@@ -2,3 +2,4 @@
 +   [其实你已经很塔罗了](hentaluo.md)
 +   [漫步灵魂森林](manbulinghunsenlin.md)
 +   [跟着大师学塔罗逆位牌](taluoniweipai.md)
++   [你可以再塔罗一点](zaitaluo.md)
