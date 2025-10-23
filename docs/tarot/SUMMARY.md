@@ -3,5 +3,6 @@
 +   [漫步灵魂森林](manbulinghunsenlin.md)
 +   [塔羅靈數](taluolingshu.md)
 +   [跟着大师学塔罗逆位牌](taluoniweipai.md)
++   [塔羅思維](taluosiwei.md)
 +   [塔罗星事](taluoxingshi.md)
 +   [你可以再塔罗一点](zaitaluo.md)
