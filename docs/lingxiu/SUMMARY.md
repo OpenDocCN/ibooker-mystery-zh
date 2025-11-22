@@ -4,6 +4,7 @@
 +   [獨角獸能量療愈](dujiaoshou.md)
 +   [光之手 1](guangzhishou1.md)
 +   [光之手 2](guangzhishou2.md)
++   [光之手 3](guangzhishou3.md)
 +   [灵魂的出生前计划](linghunchushengqian.md)
 +   [龍族守護能量全書](longzu.md)
 +   [从未知中解脱](weizhizhongjietuo.md)
