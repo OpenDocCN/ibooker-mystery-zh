@@ -3,4 +3,5 @@
 +   [魔法](docs/magic/README.md)
 +   [Quareia 魔法系列教程](docs/quareia/README.md)
 +   [塔罗系列](docs/tarot/README.md)
++   [未分类](docs/unsorted/README.md)
 +   [吸引力/显化法则](docs/xianhua/README.md)
