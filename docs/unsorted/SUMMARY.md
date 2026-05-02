@@ -29,6 +29,7 @@
 +   [OSHO Talks on The Secret of the Golden Flower](奥修谈吕洞宾1：金色花的奥秘（上）.md)
 +   [OSHO Talks on The Secret of the Golden Flower](奥修谈吕洞宾2：金色花的奥秘（中）.md)
 +   [OSHO Talks on The Secret of the Golden Flower](奥修谈吕洞宾3：金色花的奥秘（下）.md)
++   [OSHO](奥修谈瑜伽.md)
 +   [OSHIO](奥修：上帝唇边的长笛.md)
 +   [信任](奥修：信任.md)
 +   [到达](奥修：到达真爱的旅程.md)
