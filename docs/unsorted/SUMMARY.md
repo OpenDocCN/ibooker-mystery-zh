@@ -24,6 +24,7 @@
 +   [THE BOOK OF](人类图爻线全书.md)
 +   [阿啰哈！](啊啰哈.md)
 +   [塔罗的创始之地——赫密斯派](埃及塔罗大阿卡那部分.md)
++   [Autobiography of Spiritually Incorrect Mystic](奥修叛逆的灵魂.md)
 +   [ΛOXIU GUSHI](奥修故事.md)
 +   [OSHIO](奥修：上帝唇边的长笛.md)
 +   [信任](奥修：信任.md)
