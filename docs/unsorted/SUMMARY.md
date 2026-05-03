@@ -28,6 +28,7 @@
 +   [八宅明镜](八宅明镜.md)
 +   [阿啰哈！](啊啰哈.md)
 +   [塔罗的创始之地——赫密斯派](埃及塔罗大阿卡那部分.md)
++   [壬占彙選](壬占汇选.md)
 +   [壬学正解](壬学正解.md)
 +   [Autobiography of Spiritually Incorrect Mystic](奥修叛逆的灵魂.md)
 +   [ΛOXIU GUSHI](奥修故事.md)
