@@ -184,6 +184,7 @@
 +   [認識頌缽音療：平衡身心，紓壓助眠](认识颂钵音疗.md)
 +   [Money, and the Law of Attraction.](财富的吸引力法则.md)
 +   [THE SPIRITUAL LAWS OF MONEY AND WEALTH](财富的心灵法则.md)
++   [零阻力](财富金钥.md)
 +   [意识的探险（赛斯书）](赛斯书：意识的探险（完整版）.md)
 +   [阿乙莎灵讯](阿乙莎灵讯.md)
 +   [阿米1：星星的小孩](阿米1：星星的小孩.md)
