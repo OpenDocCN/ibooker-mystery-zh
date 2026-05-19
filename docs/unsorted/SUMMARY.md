@@ -234,6 +234,7 @@
 +   [CRYSTAL KNOWLEDGE](水晶知识面面观.md)
 +   [水晶風水的秘密](水晶风水的秘密.md)
 +   [CRYSTAL](水晶：天穹的繁星.md)
++   [自然元素魔法系列1](水系魔法.md)
 +   [How to Survive Mercury Retrograde](水逆求生手册.md)
 +   [IMPROVE YOUR VISION](没有改善不了的视力.md)
 +   [18 用脈輪和（或）思想形式來療癒](没有治不好的病.md)
