@@ -333,6 +333,7 @@
 +   [相學叢書 9001](陈哲毅教你学面相技巧.md)
 +   [靛藍天使](靛蓝天使1.md)
 +   [AN INDIGO CELEBRATION](靛蓝天使2.md)
++   [如何用颂钵疗愈](颂钵疗愈入门.md)
 +   [黄金纪元](颂钵：黄金纪元的圆满之歌.md)
 +   [馬雅 260](马雅260.md)
 +   [PSYCHIC DEVELOPMENT FOR BEGINNERS](麻瓜不挫败，通灵一学就上手.md)
