@@ -117,6 +117,7 @@
 +   [The Pictorial Key to the Tarot](塔罗图钥.md)
 +   [傅子绮 著](塔罗天天灵.md)
 +   [塔罗118种神准测验玩翻天 好好玩](塔罗好好玩.md)
++   [塔罗学习地图册](塔罗学习地图册.md)
 +   [YOUR TAROT COURT](塔罗宫廷牌.md)
 +   [Tarot Total Solution for Career](塔罗工作讲义.md)
 +   [塔羅牌 Tarot Thinking](塔罗思维.md)
