@@ -114,6 +114,7 @@
 +   [以塔羅探尋人生方向](塔罗其实很简单.md)
 +   [塔羅冥想](塔罗冥想.md)
 +   [塔罗博物馆](塔罗博物馆.md)
++   [塔羅，原來如此](塔罗原来如此.md)
 +   [The TAROT Image dictionary](塔罗图象事典.md)
 +   [The Pictorial Key to the Tarot](塔罗图钥.md)
 +   [傅子绮 著](塔罗天天灵.md)
