@@ -283,6 +283,7 @@
 +   [爱水晶](爱水晶.md)
 +   [愛的能量](爱的能量.md)
 +   [爱的锁钥：占星与亲密关系](爱的锁钥：占星与亲密关系.md)
++   [The Magic of Unicorns: Help and Healing from the Heavenly Realms](獨角獸能量療愈.md)
 +   [生命之树](生命之树.md)
 +   [生命之树卡巴拉](生命之树卡巴拉.md)
 +   [生命之火为谁烧](生命之火为谁烧.md)
