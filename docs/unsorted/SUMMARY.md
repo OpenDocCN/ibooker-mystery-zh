@@ -114,6 +114,7 @@
 +   [塔羅冥想](塔罗冥想.md)
 +   [塔罗博物馆](塔罗博物馆.md)
 +   [The TAROT Image dictionary](塔罗图象事典.md)
++   [The Pictorial Key to the Tarot](塔罗图钥.md)
 +   [傅子绮 著](塔罗天天灵.md)
 +   [塔罗118种神准测验玩翻天 好好玩](塔罗好好玩.md)
 +   [YOUR TAROT COURT](塔罗宫廷牌.md)
