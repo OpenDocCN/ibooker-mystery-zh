@@ -104,6 +104,7 @@
 +   [地球守护者](地球守护者.md)
 +   [埃及塔罗大阿卡那部分](埃及塔罗大阿卡那部分.md)
 +   [目 录](塔罗三昧.md)
++   [TAROT INSTRUCTION MANUAL](塔罗事典.md)
 +   [塔罗入门](塔罗入门.md)
 +   [塔罗入门十九堂课（电子版）](塔罗入门十九堂课.md)
 +   [THE EASIEST WAY TO LEARN THE TAROT - EVER!!](塔罗入门指南.md)
