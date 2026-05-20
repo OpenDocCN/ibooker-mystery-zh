@@ -121,6 +121,7 @@
 +   [Tarot Total Solution for Career](塔罗工作讲义.md)
 +   [塔羅牌 Tarot Thinking](塔罗思维.md)
 +   [神奇塔羅系列](塔罗教室就在你家.md)
++   [塔羅星事：ASTROLOGY IN TAROT](塔罗星事.md)
 +   [NUMEROLOGY OF TAROT](塔罗灵数.md)
 +   [戀情滿分·魅力大增](塔罗爱情全书.md)
 +   [塔羅牌使用說明書](塔罗牌使用说明书.md)
