@@ -115,6 +115,7 @@
 +   [塔羅冥想](塔罗冥想.md)
 +   [塔罗博物馆](塔罗博物馆.md)
 +   [塔羅占卜101](塔罗占卜101.md)
++   [St. Royal College](塔罗占卜超上手图解攻略.md)
 +   [塔羅，原來如此](塔罗原来如此.md)
 +   [MIRRORING MANTRA](塔罗原理.md)
 +   [The TAROT Image dictionary](塔罗图象事典.md)
