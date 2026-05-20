@@ -107,6 +107,7 @@
 +   [YOUR TAROT COURT](塔罗宫廷牌.md)
 +   [Tarot Total Solution for Career](塔罗工作讲义.md)
 +   [神奇塔羅系列](塔罗教室就在你家.md)
++   [NUMEROLOGY OF TAROT](塔罗灵数.md)
 +   [戀情滿分·魅力大增](塔罗爱情全书.md)
 +   [塔罗白皮书](塔罗白皮书 - 星宿.md)
 +   [塔罗的藏宝](塔罗的藏宝.md)
