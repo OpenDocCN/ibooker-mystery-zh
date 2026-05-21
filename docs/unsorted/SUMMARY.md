@@ -113,6 +113,7 @@
 +   [自序](四句话变幸福.md)
 +   [四女神星](四女神星.md)
 +   [四柱六爻应用透解](四柱六爻应用透解.md)
++   [110项](图解克苏鲁神话.md)
 +   [# 北欧神话图鉴](图解北欧神话.md)
 +   [The Illustration Guide to Bach Flower Remedies](图解巴赫花精.md)
 +   [恶魔百科 The Knowledge of Demon](图解恶魔学.md)
