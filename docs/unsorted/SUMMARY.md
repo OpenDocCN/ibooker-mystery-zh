@@ -127,6 +127,7 @@
 +   [四库全书白话图解 大系](图解六壬大全三.md)
 +   [四库全书白话图解·术数](图解六壬大全二.md)
 +   [# 北欧神话图鉴](图解北欧神话.md)
++   [古今图书集成白话图解·术数](图解奇门遁甲大全三.md)
 +   [The Illustration Guide to Bach Flower Remedies](图解巴赫花精.md)
 +   [恶魔百科 The Knowledge of Demon](图解恶魔学.md)
 +   [果老星宗](图解果老星宗上.md)
