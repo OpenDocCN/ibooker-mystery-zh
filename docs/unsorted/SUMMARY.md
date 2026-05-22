@@ -491,6 +491,7 @@
 +   [爱的锁钥：占星与亲密关系](爱的锁钥：占星与亲密关系.md)
 +   [Johannes Trithemius: The Art of Drawing Spirits into Crystals (简称DSIC)](特里特米乌斯的水晶召灵术.md)
 +   [The Magic of Unicorns: Help and Healing from the Heavenly Realms](獨角獸能量療愈.md)
++   [紫微斗数全书](王亭之紫微斗数全集二.md)
 +   [生命之树](生命之树.md)
 +   [生命之树卡巴拉](生命之树卡巴拉.md)
 +   [生命之火为谁烧](生命之火为谁烧.md)
