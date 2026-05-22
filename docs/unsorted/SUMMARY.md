@@ -55,6 +55,7 @@
 +   [Living in the Heart: How to Enter into the Sacred Space within the Heart](从心觉醒.md)
 +   [8個吸引好運、財富和人緣的超狂變身機制，](从负债2000万到奇迹.md)
 +   [從負債2000萬到心想事成每一天](从负债2000万到心想事成每一天.md)
++   [以腎為基](以肾为基.md)
 +   [M 赫里尔·著 似已霞光 埃罗·译](仪式魔法.md)
 +   [Llewellyn's Complete Book of](仪式魔法全书（上）.md)
 +   [仪式魔法全书](仪式魔法全书（下）.md)
