@@ -697,6 +697,7 @@
 +   [魔法的基础](魔法的基础.md)
 +   [插图珍藏本](魔法的故事.md)
 +   [魔女探検 百薬百科](魔法药草百宝箱.md)
++   [Cunningham's Encyclopedia of Magical Herbs](魔药学.md)
 +   [魔藥調製聖典](魔药调制圣典.md)
 +   [PSYCHIC DEVELOPMENT FOR BEGINNERS](麻瓜不挫败，通灵一学就上手.md)
 +   [黑母鸡之书](黑母鸡之书.md)
