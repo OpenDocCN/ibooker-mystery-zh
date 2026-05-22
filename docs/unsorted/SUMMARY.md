@@ -143,6 +143,7 @@
 +   [The Illustration Guide to Bach Flower Remedies](图解巴赫花精.md)
 +   [恶魔百科 The Knowledge of Demon](图解恶魔学.md)
 +   [山此篇書](图解日本神话.md)
++   [四库全书白话图解系列](图解星学大成二.md)
 +   [果老星宗](图解果老星宗上.md)
 +   [古今图书集成白话图解・星命](图解果老星宗下.md)
 +   [图解](图解梅花易数.md)
