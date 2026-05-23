@@ -583,6 +583,7 @@
 +   [ENERGY STRANDS](能量校准.md)
 +   [MODERN GUIDE TO ENERGY CLEARING](能量清理.md)
 +   [醫師推薦！](能量石的疗愈力.md)
++   [HOW TO HEAL YOURSELF WHEN NO ONE ELSE CAN](能量自愈.md)
 +   [脈輪療癒實作指南：快速學會！一次學會精油、冥想、瑜珈、水晶等 6 種技巧](脉轮疗愈.md)
 +   [調頻脈輪：111個深化靈性共振的日常練習](脉轮调频.md)
 +   [臣服实验](臣服实验.md)
