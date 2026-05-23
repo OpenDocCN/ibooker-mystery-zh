@@ -329,6 +329,7 @@
 +   [爱是唯一的真相](爱是唯一的真相.md)
 +   [愛的能量](爱的能量.md)
 +   [The Magic of Unicorns: Help and Healing from the Heavenly Realms](獨角獸能量療愈.md)
++   [現代八字命理學綱要](现代八字命理学纲要.md)
 +   [生命之树](生命之树.md)
 +   [生命之树卡巴拉](生命之树卡巴拉.md)
 +   [生命之火为谁烧](生命之火为谁烧.md)
