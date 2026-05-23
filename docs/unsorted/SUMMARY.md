@@ -209,6 +209,7 @@
 +   [当萨满巫士遇上脑神经医学](当萨满巫士遇上脑神经医学.md)
 +   [彩票与奇门](彩票与奇门.md)
 +   [全球尖端实验室争相研究的秘密！](念力的秘密1.md)
++   [The Bond: Connecting Through The Space Between Us](念力的秘密2.md)
 +   [Grace and Grit](恩宠与勇气.md)
 +   [魔鬼辞典](恶魔事典.md)
 +   [驚人的孩童前世記憶](惊人的孩童前世记忆.md)
