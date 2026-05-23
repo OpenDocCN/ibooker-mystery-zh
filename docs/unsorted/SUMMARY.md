@@ -252,6 +252,7 @@
 +   [Illuminating Journeys Through the Sign and House](月亮推运占星全书.md)
 +   [月亮](月亮金星行运全书.md)
 +   [實現心願、改變人生的月亮魔法](月亮魔法.md)
++   [The Complete Book of Moon Spells](月相魔法全书.md)
 +   [有求必应](有求必应.md)
 +   [有钱人不一样的财富印记](有钱人不一样的财富印记.md)
 +   [水木清华](未知之门.md)
