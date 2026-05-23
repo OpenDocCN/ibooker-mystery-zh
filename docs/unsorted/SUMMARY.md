@@ -579,6 +579,7 @@
 +   [找到你的力量所在](胡督魔法.md)
 +   [SPIRITUAL CLEANSING](能量净化全书.md)
 +   [St. Royal College](能量宝石缤纷物语.md)
++   [MODERN GUIDE TO ENERGY CLEARING](能量清理.md)
 +   [脈輪療癒實作指南：快速學會！一次學會精油、冥想、瑜珈、水晶等 6 種技巧](脉轮疗愈.md)
 +   [調頻脈輪：111個深化靈性共振的日常練習](脉轮调频.md)
 +   [臣服实验](臣服实验.md)
