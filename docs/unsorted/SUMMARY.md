@@ -422,5 +422,6 @@
 +   [魔藥調製聖典](魔药调制圣典.md)
 +   [PSYCHIC DEVELOPMENT FOR BEGINNERS](麻瓜不挫败，通灵一学就上手.md)
 +   [黑母鸡之书](黑母鸡之书.md)
++   [Kirael: Lemurian Legacy for The Great Shift](齐瑞尔讯息.md)
 +   [龍族守護能量全書](龍族守護能量全書.md)
 +   [龍之力量](龙之力量疗愈图腾卡说明书.md)
