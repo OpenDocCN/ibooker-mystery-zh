@@ -99,6 +99,7 @@
 +   [Mending the Past and Healing the Future with Soul Retrieval](印加灵魂复原疗法.md)
 +   [印度占星學](印度占星学.md)
 +   [印度納迪葉](印度纳迪叶.md)
++   [生活可以這樣活](原来我还可以这样活.md)
 +   [发现天赋之旅](发现天赋之旅.md)
 +   [变幻的天空](变幻的天空.md)
 +   [古代神秘学院入门书](古代神秘学院入门书.md)
