@@ -8,3 +8,4 @@
 +   [吸引力/显化法则](docs/xiyinli/README.md)
 +   [杨定一系列](docs/yangdingyi/README.md)
 +   [与神对话系列](docs/yushenduihua/README.md)
++   [占星系列](docs/zhanxing/README.md)
