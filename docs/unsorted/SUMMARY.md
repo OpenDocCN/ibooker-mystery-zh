@@ -152,6 +152,7 @@
 +   [图解阴阳师](图解阴阳师.md)
 +   [图解风水入门](图解风水入门.md)
 +   [百](图解魔导书.md)
++   [Kirael: The Ten Principles of Consciously Creating](在觉知中创造的十大法则.md)
 +   [DISCOVER YOUR SOUL'S PATH THROUGH THE AKASHIC RECORDS](在阿卡西记录中发现你的灵魂道路.md)
 +   [地心文明 桃樂市](地心文明桃乐市1第五次元拉姆妮亚的扬升之道.md)
 +   [地心文明 | 桃乐市](地心文明桃乐市2人类扬升的光启之道.md)
