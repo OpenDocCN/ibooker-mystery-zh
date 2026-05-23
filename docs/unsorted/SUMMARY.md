@@ -216,7 +216,7 @@
 +   [塔罗118种神准测验玩翻天 好好玩](塔罗好好玩.md)
 +   [塔罗学习地图册](塔罗学习地图册.md)
 +   [YOUR TAROT COURT](塔罗宫廷牌.md)
-+   [Tarot Total Solution for Career](塔罗工作讲义.md)
++   [塔罗工作讲义](塔罗工作讲义.md)
 +   [塔羅牌 Tarot Thinking](塔罗思维.md)
 +   [神奇塔羅系列](塔罗教室就在你家.md)
 +   [塔羅星事：ASTROLOGY IN TAROT](塔罗星事.md)
