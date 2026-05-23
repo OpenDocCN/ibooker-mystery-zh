@@ -166,6 +166,7 @@
 +   [ENERGY HEALING for WOMEN](女人能量疗愈宝典.md)
 +   [LIFE SPRING TAROT](女塔罗师的心灵魔方.md)
 +   [女巫不傳的魔法藥草書](女巫不传的魔法草药书.md)
++   [LLEWELLYN'S COMPLETE BOOK OF ESSENTIAL OILS](女巫的日常精油魔法.md)
 +   [home herbalist](女巫阿娥的居家香草保健万用书.md)
 +   [女神與薩滿](女神萨满.md)
 +   [如何活用飞星紫微](如何活用飞星紫微.md)
