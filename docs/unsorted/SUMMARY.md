@@ -171,6 +171,7 @@
 +   [SOLAR RETURN](太阳回归.md)
 +   [占星基礎學 III](太阳水星金星火星交织的外显人生.md)
 +   [TRANSITS OF SUN](太阳行运全书.md)
++   [H. Royal College](奇幻的通灵印记.md)
 +   [女人的身心疗愈地图](女人的身心疗愈地图.md)
 +   [ENERGY HEALING for WOMEN](女人能量疗愈宝典.md)
 +   [LIFE SPRING TAROT](女塔罗师的心灵魔方.md)
