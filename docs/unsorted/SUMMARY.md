@@ -233,6 +233,7 @@
 +   [御定奇门遁甲](御定奇门遁甲阳遁九局.md)
 +   [四库全书](御定奇门遁甲阴遁九局.md)
 +   [Maluhia, The Happy City](快乐城市.md)
++   [如何用紫微斗数 改变命运](快乐学紫微.md)
 +   [全球尖端实验室争相研究的秘密！](念力的秘密1.md)
 +   [The Bond: Connecting Through The Space Between Us](念力的秘密2.md)
 +   [Grace and Grit](恩宠与勇气.md)
