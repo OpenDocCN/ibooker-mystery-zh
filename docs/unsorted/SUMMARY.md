@@ -213,6 +213,7 @@
 +   [The Bond: Connecting Through The Space Between Us](念力的秘密2.md)
 +   [Grace and Grit](恩宠与勇气.md)
 +   [魔鬼辞典](恶魔事典.md)
++   [悟空與三藏](悟空与三藏是双生火焰.md)
 +   [驚人的孩童前世記憶](惊人的孩童前世记忆.md)
 +   [意念力](意念力激发你的潜在能量.md)
 +   [本書推薦](意念波疗愈法.md)
