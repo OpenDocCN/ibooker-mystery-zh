@@ -103,6 +103,7 @@
 +   [动物灵气疗愈](动物灵气疗愈.md)
 +   [十二宫位](十二宫位.md)
 +   [升起你的灵性天线](升起你的灵性天线.md)
++   [占卜](占卜.md)
 +   [数字解密](卡巴拉数字密码.md)
 +   [卢恩符文初学指南+应用入门](卢恩符文初学指南+应用入门.md)
 +   [Mending the Past and Healing the Future with Soul Retrieval](印加灵魂复原疗法.md)
