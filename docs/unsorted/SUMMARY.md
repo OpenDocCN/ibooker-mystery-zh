@@ -167,6 +167,7 @@
 +   [女人的身心疗愈地图](女人的身心疗愈地图.md)
 +   [ENERGY HEALING for WOMEN](女人能量疗愈宝典.md)
 +   [LIFE SPRING TAROT](女塔罗师的心灵魔方.md)
++   [home herbalist](女巫阿娥的居家香草保健万用书.md)
 +   [女神與薩滿](女神萨满.md)
 +   [如何活用飞星紫微](如何活用飞星紫微.md)
 +   [威卡關係魔法](威卡关系魔法.md)
