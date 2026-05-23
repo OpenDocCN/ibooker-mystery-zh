@@ -187,6 +187,7 @@
 +   [TRANSITS OF SUN](太阳行运全书.md)
 +   [女人的身心疗愈地图](女人的身心疗愈地图.md)
 +   [ENERGY HEALING for WOMEN](女人能量疗愈宝典.md)
++   [LIFE SPRING TAROT](女塔罗师的心灵魔方.md)
 +   [女神與薩滿](女神萨满.md)
 +   [如何活用飞星紫微](如何活用飞星紫微.md)
 +   [陳倍生風水系列](妙派奇门遁甲使用方法.md)
