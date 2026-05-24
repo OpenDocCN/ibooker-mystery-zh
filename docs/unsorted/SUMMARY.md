@@ -254,6 +254,7 @@
 +   [家居风水100忌](家居风水100忌.md)
 +   [图书在版编目(CIP)数据](富在工作.md)
 +   [一個魔法師的個人回憶錄](小法故事多.md)
++   [Dilettante's Guide to What You Do and Do Not Need to Know to Become a Cabalist](小鸡卡巴拉.md)
 +   [我最想要的小户型风水指南](居家布置风水.md)
 +   [居家风水大全](居家风水大全.md)
 +   [法术奇门](居明易道法术奇门上.md)
