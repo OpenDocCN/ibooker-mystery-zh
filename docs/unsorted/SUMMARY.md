@@ -347,6 +347,7 @@
 +   [愛的能量](爱的能量.md)
 +   [The Magic of Unicorns: Help and Healing from the Heavenly Realms](獨角獸能量療愈.md)
 +   [紫微斗數全書](王亭之紫微斗数全集一.md)
++   [中国房地产丛书](现代住宅风水.md)
 +   [現代八字命理學綱要](现代八字命理学纲要.md)
 +   [現代占星學](现代占星学.md)
 +   [現代占星學](现代占星学进阶之一.md)
