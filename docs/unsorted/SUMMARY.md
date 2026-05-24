@@ -366,6 +366,7 @@
 +   [0至100占卜图](灵摆表.md)
 +   [(二)](灵摆风水应用.md)
 +   [Nacht van de ziel](灵魂的暗夜.md)
++   [THE SOUL PURPOSE](灵魂的目标.md)
 +   [Your Soul's Gift](灵魂的礼物.md)
 +   [前世今生业力解码](灵魂的符号.md)
 +   [炼金术入门](炼金术入门.md)
