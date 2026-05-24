@@ -396,6 +396,7 @@
 +   [显化](显化.md)
 +   [COSMIC GARDEN](显化之书.md)
 +   [心想事成](显化效应.md)
++   [光的課程 課外讀本](智慧的河流如莲的喜悦.md)
 +   [暗示疗法的奇迹](暗示疗法的奇迹.md)
 +   [占星基礎研究 III — 月亮、土星、世代行星](月亮土星木星世代行星汇集的隐藏版人生.md)
 +   [Illuminating Journeys Through the Sign and House](月亮推运占星全书.md)
