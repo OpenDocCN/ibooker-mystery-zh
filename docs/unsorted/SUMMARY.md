@@ -343,6 +343,7 @@
 +   [The Magic of Unicorns: Help and Healing from the Heavenly Realms](獨角獸能量療愈.md)
 +   [現代八字命理學綱要](现代八字命理学纲要.md)
 +   [現代占星學](现代占星学.md)
++   [占星學叢書系列⑦](现代占星学进阶之二.md)
 +   [現身說法 異次元](现代异次元1.md)
 +   [現代異次元](现代异次元2.md)
 +   [現代異次元3](现代异次元3.md)
