@@ -544,6 +544,7 @@
 +   [★ 美股 ★](美股股息成长投资术.md)
 +   [EasyQuick EQ084](翻书就能算紫微.md)
 +   [模糊命運的力量](翻转命运的力量.md)
++   [Work Space or Battle Space?](职场如战场：星座X血型大PK.md)
 +   [SPIRITUAL CLEANSING](能量净化全书.md)
 +   [St. Royal College](能量宝石缤纷物语.md)
 +   [ENERGY STRANDS](能量校准.md)
