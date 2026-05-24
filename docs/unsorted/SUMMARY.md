@@ -344,6 +344,7 @@
 +   [爱是唯一的真相](爱是唯一的真相.md)
 +   [愛的能量](爱的能量.md)
 +   [The Magic of Unicorns: Help and Healing from the Heavenly Realms](獨角獸能量療愈.md)
++   [紫微斗數全書](王亭之紫微斗数全集一.md)
 +   [現代八字命理學綱要](现代八字命理学纲要.md)
 +   [現代占星學](现代占星学.md)
 +   [占星學叢書系列⑦](现代占星学进阶之二.md)
