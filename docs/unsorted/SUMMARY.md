@@ -115,6 +115,7 @@
 +   [ASPECT PATTERNS IN ASTROLOGY](占星图形相位全书.md)
 +   [占星大師談星座](占星大师谈星座.md)
 +   [The Astrologer's Handbook](占星玩家手册：深度命盘解释.md)
++   [占星相位研究](占星相位研究.md)
 +   [黄楚楚](占星看天下.md)
 +   [上生方療](占星芳疗.md)
 +   [WRITE YOUR OWN HOROSCOPE](占星解密.md)
