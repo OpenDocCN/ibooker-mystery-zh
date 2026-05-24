@@ -121,6 +121,7 @@
 +   [The Astrologer's Handbook](占星玩家手册：深度命盘解释.md)
 +   [占星相位研究](占星相位研究.md)
 +   [黄楚楚](占星看天下.md)
++   [十星三位的秘密世界](占星纵横谈.md)
 +   [上生方療](占星芳疗.md)
 +   [WRITE YOUR OWN HOROSCOPE](占星解密.md)
 +   [致谢](占星诗集.md)
