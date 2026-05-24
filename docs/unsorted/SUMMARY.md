@@ -113,6 +113,7 @@
 +   [WRITE YOUR OWN HOROSCOPE](占星解密.md)
 +   [WEALTH IN ASTROLOGY](占星财富手册.md)
 +   [占星學](占星进阶辞典.md)
++   [星座魔法](占星魔法.md)
 +   [数字解密](卡巴拉数字密码.md)
 +   [卢恩符文初学指南+应用入门](卢恩符文初学指南+应用入门.md)
 +   [Mending the Past and Healing the Future with Soul Retrieval](印加灵魂复原疗法.md)
