@@ -114,6 +114,7 @@
 +   [宮位舞台的人際互動](占星合盘的吸引力法则.md)
 +   [ASPECT PATTERNS IN ASTROLOGY](占星图形相位全书.md)
 +   [占星大師談星座](占星大师谈星座.md)
++   [The Astrological Moon](占星学中的月亮.md)
 +   [占星学拾遗](占星学拾遗.md)
 +   [The Astrologer's Handbook](占星玩家手册：深度命盘解释.md)
 +   [占星相位研究](占星相位研究.md)
