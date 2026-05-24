@@ -374,6 +374,7 @@
 +   [0至100占卜图](灵摆表.md)
 +   [(二)](灵摆风水应用.md)
 +   [靈魂復原術](灵魂复原术.md)
++   [Holistic](灵魂密码.md)
 +   [Nacht van de ziel](灵魂的暗夜.md)
 +   [THE SOUL PURPOSE](灵魂的目标.md)
 +   [Your Soul's Gift](灵魂的礼物.md)
