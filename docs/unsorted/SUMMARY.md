@@ -331,6 +331,7 @@
 +   [The Source Field Investigations](源场调查谁设计了宇宙.md)
 +   [源 The Source Field Investigations 场](源场：超自然关键报告.md)
 +   [火星四重奏](火星四重奏.md)
++   [炼金术入门](炼金术入门.md)
 +   [爱情的吸引力法则](爱情的吸引力法则.md)
 +   [爱情觉醒地图](爱情觉醒地图.md)
 +   [爱是唯一的吸引力法则](爱是唯一的吸引力法则.md)
