@@ -107,6 +107,7 @@
 +   [升起你的灵性天线](升起你的灵性天线.md)
 +   [占卜](占卜.md)
 +   [DIVINATION FOR BEGINNERS](占卜大全.md)
++   [ASTROLOGY KARMA & TRANSFORMATION](占星业力与转化.md)
 +   [【推荐序】](占星全书.md)
 +   [占星全方位](占星全方位.md)
 +   [占星其实很简单！](占星其实很简单1+2.md)
