@@ -337,6 +337,7 @@
 +   [斗转星移](斗转星移.md)
 +   [二十五週年紀念版](新灵魂观.md)
 +   [FIND YOURSELF THROUGH NUMBERS](新生命数字密码.md)
++   [IN THE PATH OF THE GODS](新生命数字密码2.md)
 +   [精油图鉴](新精油图鉴.md)
 +   [新茅山奇门秘籍](新茅山奇门秘籍.md)
 +   [无毒一身轻](无粘液饮食疗愈法.md)
