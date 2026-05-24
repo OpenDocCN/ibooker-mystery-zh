@@ -256,6 +256,7 @@
 +   [实用六壬预测学](实用六壬预测学.md)
 +   [家居风水100忌](家居风水100忌.md)
 +   [图书在版编目(CIP)数据](富在工作.md)
++   [小六壬](小六壬预测法全集.md)
 +   [一個魔法師的個人回憶錄](小法故事多.md)
 +   [Dilettante's Guide to What You Do and Do Not Need to Know to Become a Cabalist](小鸡卡巴拉.md)
 +   [我最想要的小户型风水指南](居家布置风水.md)
