@@ -353,6 +353,7 @@
 +   [The Source Field Investigations](源场调查谁设计了宇宙.md)
 +   [源 The Source Field Investigations 场](源场：超自然关键报告.md)
 +   [火星四重奏](火星四重奏.md)
++   [邏輯數字](灵动数字.md)
 +   [PENDULUM](灵摆占卜手册.md)
 +   [0至100占卜图](灵摆表.md)
 +   [(二)](灵摆风水应用.md)
