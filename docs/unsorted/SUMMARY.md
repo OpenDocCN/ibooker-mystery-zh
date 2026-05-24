@@ -649,6 +649,7 @@
 +   [零极限](零极限实作MOOK.md)
 +   [The Easiest Way to Live](零极限生活篇.md)
 +   [零散的](零极限的美好生活.md)
++   [Zero Frequency](零频率.md)
 +   [The Lenormand Treasury](雷曼诺卡宝典.md)
 +   [靜心冥想的練習](静心冥想的练习.md)
 +   [靛藍天使](靛蓝天使1.md)
