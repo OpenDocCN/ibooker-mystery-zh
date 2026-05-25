@@ -206,6 +206,7 @@
 +   [图书在版编目(CIP)数据](富在工作.md)
 +   [一個魔法師的個人回憶錄](小法故事多.md)
 +   [Dilettante's Guide to What You Do and Do Not Need to Know to Become a Cabalist](小鸡卡巴拉.md)
++   [巫术植物](巫术植物.md)
 +   [巴赫花精与自我疗愈](巴赫花精与自我疗愈.md)
 +   [開發你的 通靈智能](开发你的通灵潜能.md)
 +   [Becoming Supernatural](开启你的惊人天赋.md)
