@@ -480,6 +480,7 @@
 +   [1月1日 新年](每一天都是放手的练习1.md)
 +   [MORE LANGUAGE OF LETTING GO](每一天都是放手的练习2.md)
 +   [氣的大合唱](气的大合唱.md)
++   [气血的旋律](气血的旋律.md)
 +   [How to Survive Mercury Retrograde](水逆求生手册.md)
 +   [IMPROVE YOUR VISION](没有改善不了的视力.md)
 +   [18 用脈輪和（或）思想形式來療癒](没有治不好的病.md)
