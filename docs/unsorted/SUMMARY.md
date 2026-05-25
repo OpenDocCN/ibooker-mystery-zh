@@ -39,6 +39,7 @@
 +   [The Alchemy of Nine Dimensions](九次元炼金术.md)
 +   [云占术](云占术.md)
 +   [The Archangel Guide to Enlightenment and Mastery — Living in the Fifth Dimension](五次元的灵性觉醒.md)
++   [五次元的靈魂揚昇](五次元的灵魂扬升.md)
 +   [人体气场彩光学](人体气场彩光学.md)
 +   [人体能量中心的真相](人体能量中心的真相.md)
 +   [人声，奇迹的治愈力](人声，奇迹的治愈力.md)
