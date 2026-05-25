@@ -561,6 +561,7 @@
 +   [風是我的母親](风是我的母亲.md)
 +   [精油手帖](香气王国.md)
 +   [馬雅 260](马雅260.md)
++   [GABRIELE AMORTH](驱魔师1.md)
 +   [秘修学徒的高等灵性修炼法门](高等灵性修炼法门.md)
 +   [QUAREIA](魔法学徒04.md)
 +   [Cunningham's Encyclopedia of Magical Herbs](魔药学.md)
