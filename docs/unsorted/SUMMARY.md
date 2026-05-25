@@ -395,6 +395,7 @@
 +   [新巫魔法書](新巫魔法书.md)
 +   [St. Royal College](新月许愿.md)
 +   [二十五週年紀念版](新灵魂观.md)
++   [【開運鑑定館】35](新版十二星座都是骗人的.md)
 +   [FIND YOURSELF THROUGH NUMBERS](新生命数字密码.md)
 +   [IN THE PATH OF THE GODS](新生命数字密码2.md)
 +   [精油图鉴](新精油图鉴.md)
