@@ -635,6 +635,7 @@
 +   [Zero Frequency](零频率.md)
 +   [The Lenormand Treasury](雷曼诺卡宝典.md)
 +   [靜心冥想的練習](静心冥想的练习.md)
++   [# Osho Therapy](静心治疗：16位著名疗愈师与1位成道奥秘的相逢.md)
 +   [靛藍天使](靛蓝天使1.md)
 +   [AN INDIGO CELEBRATION](靛蓝天使2.md)
 +   [RIDER WAITE TAROT](韦特塔罗指导手册.md)
