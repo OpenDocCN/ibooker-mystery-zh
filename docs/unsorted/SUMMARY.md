@@ -10,6 +10,7 @@
 +   [Llewellyn's Sabbat Essentials](Mabon：秋分的仪式，食谱和传说.md)
 +   [MBA必修核心課程](MBA女巫带你开通能量.md)
 +   [22個OH卡療癒的真實案例 照見潛意識的心靈明鏡](OH卡与心灵疗愈.md)
++   [Neue Wege des Spirituellen Heilens](SoHam徒手能量疗愈.md)
 +   [抖S宇宙先生的1分鐘「下單」練習](一分钟下单练习.md)
 +   [一本读懂人类图](一本读懂人类图.md)
 +   [一的法则](一的法则（又名Ra资料）.md)
