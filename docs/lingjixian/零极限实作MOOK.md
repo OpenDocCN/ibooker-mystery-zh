@@ -1,58 +1,7 @@
 
 
-# 零极限
-實作Mook
+# 零极限实作MOOK
 
-> 隨|書|附|贈
-修·藍博士親筆寫下的
-「四句話療癒身心」小卡
-
-幸福人生清理術——「荷歐波諾波諾」
-簡單的四句話，教你清理、歸零、回到愛
-
-- 觀念
-- 方法
-- 工具
-- 實證
-
-- ◆ 修·藍博士細說讓醫院的重刑犯精神病患者得以療癒的清理步驟
-- ◆ KR女士透過靈感獲得的多種最新清理工具與使用訣竅
-- ◆ 跟著KR女士每天這樣清理
-- ◆ 與內在小孩溝通的方法
-- ◆ 荷歐波諾波諾如何改變全世界
-- ◇ 特蒐！台灣實踐者心得分享 ◇
-
-伊賀列阿卡拉·修·藍、KR 等着 賴庭筠 譯
-
-![](img/4591fde27f99bc310d4c894b2802ec50_0_0.png)
-
-![](img/4591fde27f99bc310d4c894b2802ec50_0_1.png)
-
-![](img/4591fde27f99bc310d4c894b2802ec50_0_2.png)
-
-![](img/4591fde27f99bc310d4c894b2802ec50_0_3.png)
-
-# 零極限實作Mook
-
-隨 | 書 | 附 | 贈
-修・藍博士親筆寫下的
-「四句話療癒身心」小卡
-
-## 幸福人生清理術——「荷歐波諾波諾」
-簡單的四句話，教你清理、歸零、回到愛
-
-- 觀念，方法，工具，實證
-
-- ◆ 修・藍博士細說讓醫院的重刑犯精神病患者得以療癒的清理步驟
-- ◆ KR女士透過靈感獲得的多種最新清理工具與使用訣竅
-- ◆ 跟著KR女士每天這樣清理
-- ◆ 與內在小孩溝通的方法
-- ◆ 荷歐波諾波諾如何改變全世界
-- ◆ 特蒐！台灣實踐者心得分享
-
-![](img/4591fde27f99bc310d4c894b2802ec50_1_0.png)
-
-伊賀列阿卡拉・修・藍、KR 等著 賴庭筠 譯
 
 ## 前言
 
@@ -2026,41 +1975,3 @@ House」（燈塔）。燈塔總是默
 Ihaleakala Hew Len, ph.D.
 
 ![](img/4591fde27f99bc310d4c894b2802ec50_83_0.png)
-
-# 零極限實作Mook
-
-- 作 者／伊賀列阿卡拉·修·藍、KR女士
-- 譯 者／賴庭筠
-- 發行人／簡志忠
-- 出版者／方智出版社股份有限公司
-- 地址／台北市南京東路四段50號6樓之1
-- 電話／（02）2579-6600·2579-8800·2570-3939
-- 傳真／（02）2579-0338·2577-3220·2570-3636
-- 郵政帳號／13633081 方智出版社股份有限公司
-- 總編輯／陳秋月
-- 資深主編／賴良珠
-- 責任編輯／巫芷纭
-- 美術編輯／王 琪
-- 行銷企劃／吳幸芳·陳妍荷
-- 校 對／柳怡如
-- 數位版權／莊淑涵
-- 法律顧問／圓神出版事業機構法律顧問 蕭雄淋律師
-
-- 2015年10月 實體書發行
-- 2021年7月 電子書發行
-- ISBN(EPUB)：9789861756158
-
-DAREMOGA SHIAWASENINARU HAWAII NO KOTOBA "HO'OPONOPONO"
-Copyright © 2012 by Dr. Ihaleakala Hew Len, Ph.D. & Kamile Rafaelovich (KR)
-Photography ©Chiho Ushio (p.4-5, 8, 18, 22-23, 35, 44, 48-50, 64-74, 76-77)
-Photography ©Nakano Seiya (p.1, 6, 9-11, 16-17, 20-21, 24-25, 41-43, 79)
-Photography ©Tamai Mikiro (p.31, 46-47)
-Illustration ©Higuchi Tatsuno (p.33-34, cover, card)
-Illustration ©Tokuchi Naomi (all the rest of illustrations)
-Originally published in Japan in 2012 by Serene Co., LTD
-Traditional Chinese translation copyright © 2015 by The Eurasian Publishing Group
-(Imprint: Fine Press)
-All rights reserved.
-
-本服務所提供之內容，未經合法授權不得擅自變更、發行、公開播送、重製、改作、散布、轉制、公開展示、公開傳輸或以任何方式供他人使用。
-EPUB3製作/台灣漫讀（BOOK☆WALKER）
