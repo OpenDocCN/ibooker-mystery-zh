@@ -2,7 +2,7 @@
 +   [QUAREIA 魔法学徒01](魔法学徒01.md)
 +   [QUAREIA 魔法学徒02](魔法学徒02.md)
 +   [QUAREIA 魔法学徒03](魔法学徒03.md)
-+   [QUAREIA 魔法学徒 05](魔法学徒04.md)
++   [QUAREIA 魔法学徒04](魔法学徒04.md)
 +   [QUAREIA 魔法学徒05](魔法学徒05.md)
 +   [QUAREIA 魔法学徒06](魔法学徒06.md)
 +   [QUAREIA 魔法学徒07](魔法学徒07.md)
