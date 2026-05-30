@@ -1,0 +1,213 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta http-equiv="cache-control" content="no-siteapp">
+<link rel="shortcut icon" href="http://www.scalarwave.cc/wp-content/uploads/2019/07/d02a42d9cb3dec9.ico">
+<title>标量波挠场研究-GPUFO</title>
+
+<link rel='dns-prefetch' href='//apps.bdimg.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='smartideo_css-css'  href='http://www.scalarwave.cc/wp-content/plugins/smartideo/static/smartideo.css?ver=2.5.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='main-css'  href='http://www.scalarwave.cc/wp-content/themes/YusiPro/style.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='slides-css'  href='http://www.scalarwave.cc/wp-content/themes/YusiPro/css/swiper.min.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wppay-css'  href='http://www.scalarwave.cc/wp-content/themes/YusiPro/shop/static/css/pay.css?ver=4.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js?ver=1.5'></script>
+<script type='text/javascript' src='http://www.scalarwave.cc/wp-content/themes/YusiPro/js/theia-sticky-sidebar.min.js?ver=1.5'></script>
+<meta name="keywords" content="标量波,标量波技术,挠场,挠场理论,挠场技术">
+<meta name="description" content="本站只对标量波相关技术进行探讨,包括标量波理论与技术,挠场理论及相关实验包括挠场发生器,挠场探测技术等，旨在推广最早由特斯拉先生发现的标量波技术，前苏联最早开始研究的挠场技术。">
+<!--[if lt IE 9]><script src="http://www.scalarwave.cc/wp-content/themes/YusiPro/js/html5.js"></script><![endif]-->
+</head>
+<body class="home blog list-news">
+
+<header class="header">
+<div class="container-inner">
+<div class="yusi-logo">
+<a href="/"><h1><span class="yusi-mono">标量波挠场研究</span><span class="yusi-bloger">GPUFO</span></h1></a>
+</div>
+</div>
+<div id="nav-header" class="navbar">
+<div class="container_header">		
+					<div class="wel">
+				<div class="wel-item"><a href="http://www.scalarwave.cc/user?action=vip"><i class="fa fa-jpy" aria-hidden="true"></i> 开通VIP</a></div>	
+				<div class="wel-item"><a href="http://www.scalarwave.cc/login" etap="login_btn"><i class="fa fa-sign-in" aria-hidden="true"></i> 登录</a></div>
+				<div class="wel-item wel-item-btn"><a href="http://www.scalarwave.cc/login?action=register" etap="register_btn"><i class="fa fa-hand-o-right" aria-hidden="true"></i> 注册新用户</a></div>
+				<div class="wel-item"><a href="javascript:;" id="search"><i class="fa fa-search" aria-hidden="true"></i></a></div>
+			</div>
+
+			<div class="m-wel">
+				<div class="m-wel-login">
+					<img class="avatar" src="http://www.scalarwave.cc/wp-content/themes/YusiPro/img/avatar.png">
+					<a class="m-wel-login" href="http://www.scalarwave.cc/login"><i class="fa fa-sign-in" aria-hidden="true"></i> 登录</a>
+					<a class="m-wel-register" href="http://www.scalarwave.cc/login?action=register"><i class="fa fa-hand-o-right" aria-hidden="true"></i> 新用户注册</a>
+				</div>
+			</div>
+		
+		<div class="site-navbar">
+			<ul id="menu-%e6%a0%87%e9%87%8f%e6%b3%a2" class="menu"><li><a href="http://www.scalarwave.cc">首页</a></li>
+<li class="menu-item-has-children"><a href="http://www.scalarwave.cc/?cat=20">标量波大神</a>
+<div class="sub-menu"><ul>
+	<li><a href="http://www.scalarwave.cc/?cat=3">特斯拉</a></li>
+	<li><a href="http://www.scalarwave.cc/?cat=10">Kanstantin Meyl</a></li>
+	<li><a href="http://www.scalarwave.cc/?cat=25">Nikolai A. Kozyrev</a></li>
+	<li><a href="http://www.scalarwave.cc/?cat=11">Tom Bearden</a></li>
+</ul>
+</li>
+<li><a href="http://www.scalarwave.cc/?cat=4">标量波实验及理论</a></li>
+<li class="menu-item-has-children"><a href="http://www.scalarwave.cc/?cat=52">非常规科学</a>
+<div class="sub-menu"><ul>
+	<li><a href="http://www.scalarwave.cc/?cat=53">人体科学</a></li>
+	<li><a href="http://www.scalarwave.cc/?cat=54">俄罗斯挠场技术</a></li>
+</ul>
+</li>
+<li><a href="http://www.scalarwave.cc/?page_id=1143">心灵（意识）影响感知装置（M.I.N.D)</a></li>
+<li><a href="http://www.scalarwave.cc/?page_id=1017">关于我</a></li>
+</ul>		</div>
+
+		<div class="m-navbar-start"><i class="fa fa-align-justify" aria-hidden="true"></i> </div>
+		<div class="m-wel-start"><i class="fa fa-user" aria-hidden="true"></i> </div>
+		<div class="m-mask"></div>
+	</div>
+	
+
+	<div id="header-search-dropdown" class="header-search-dropdown ajax-search is-in-navbar js-ajax-search">
+		<div class="container container--narrow">
+			<form class="search-form search-form--horizontal" method="get" action="http://www.scalarwave.cc/">
+				<div class="search-form__input-wrap">
+					<input type="text" name="s" class="search-form__input" placeholder="输入关键词进行搜索..." value="">
+				</div>
+				<div class="search-form__submit-wrap">
+					<button type="submit" class="search-form__submit btn btn-primary">搜索一下</button>
+				</div>
+			</form>
+			<div class="search-results">
+				<div class="typing-loader"></div>
+				<div class="search-results__inner"></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</header>
+
+<!-- 最新文章 -->
+<section class="container">
+		<div class="section-info"> 
+		<h2 class="postmodettitle">标量波挠场技术研究网</h2> 
+		<div class="postmode-description">专注于标量波，挠场，气等非常规科学研究</div> 
+	</div>
+	
+	<div class="excerpts-wrapper"><div class="excerpts"><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=904"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2016/06/5.17.2016-SEVA-Integral-M-3-Panoramic-View.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="基于挠场的non-local(非局域)远程信息传输实验"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=904">基于挠场的non-local(非局域)远程信息传输实验</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>7年前 (2016-06-17)</time><span class="post-view"><i class="fa fa-eye"></i> 6.82K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=801"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="TF_WOODEN_FRAME(用标量波使木架旋转实验)"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=801">TF_WOODEN_FRAME(用标量波使木架旋转实验)</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>7年前 (2015-12-30)</time><span class="post-view"><i class="fa fa-eye"></i> 7.19K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=714"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2015/11/0040.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="挠场与星际通信 &#8211; 作者：Victor.Shkatov &#038; Vitaliy Zamsha"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=714">挠场与星际通信 &#8211; 作者：Victor.Shkatov &#038; Vitaliy Zamsha</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>7年前 (2015-11-26)</time><span class="post-view"><i class="fa fa-eye"></i> 18.56K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=1184"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2021/12/a147b1c6f897940.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="从德国到中国：国际在线研讨会讨论奥廖尔科学家鲍勃罗夫的轰动性发现"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=1184">从德国到中国：国际在线研讨会讨论奥廖尔科学家鲍勃罗夫的轰动性发现</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>1年前 (2021-12-14)</time><span class="post-view"><i class="fa fa-eye"></i> 1.29K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=1181"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=https://attachment.outlook.live.net/owa/MSA%3Agpufo%40outlook.com/service.svc/s/GetAttachmentThumbnail?id=AQMkADAwATNiZmYAZC1jYwBhNy0zMWI5LTAwAi0wMAoARgAAA%2BKmiPv3CF9AgezoyR2oC%2B0HAGfLaX%2BJmuREhsn6IR2IOEoAAAIBCQAAAGfLaX%2BJmuREhsn6IR2IOEoABREHVtEAAAABEgAQAIUk6yUlAMxETLucKdd7xfYW&amp;thumbnailType=2&amp;isc=1&amp;token=eyJhbGciOiJSUzI1NiIsImtpZCI6IkZBRDY1NDI2MkM2QUYyOTYxQUExRThDQUI3OEZGMUIyNzBFNzA3RTkiLCJ0eXAiOiJKV1QiLCJ4NXQiOiItdFpVSml4cThwWWFvZWpLdDRfeHNuRG5CLWsifQ.eyJvcmlnaW4iOiJodHRwczovL291dGxvb2subGl2ZS5jb20iLCJ1YyI6IjZiOGI3NWUzMDVjNTQ3ODdhOWFmYmMyYmNlZjU0YTQwIiwidmVyIjoiRXhjaGFuZ2UuQ2FsbGJhY2suVjEiLCJhcHBjdHhzZW5kZXIiOiJPd2FEb3dubG9hZEA4NGRmOWU3Zi1lOWY2LTQwYWYtYjQzNS1hYWFhYWFhYWFhYWEiLCJpc3NyaW5nIjoiV1ciLCJhcHBjdHgiOiJ7XCJtc2V4Y2hwcm90XCI6XCJvd2FcIixcInB1aWRcIjpcIjEwNTU1MjE3MTEyNzIzNzdcIixcInNjb3BlXCI6XCJPd2FEb3dubG9hZFwiLFwib2lkXCI6XCIwMDAzYmZmZC1jY2E3LTMxYjktMDAwMC0wMDAwMDAwMDAwMDBcIixcInByaW1hcnlzaWRcIjpcIlMtMS0yODI3LTI0NTc1Ny0zNDMzNTA5MzA1XCJ9IiwibmJmIjoxNjM4MTY2MjQxLCJleHAiOjE2MzgxNjY4NDEsImlzcyI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMEA4NGRmOWU3Zi1lOWY2LTQwYWYtYjQzNS1hYWFhYWFhYWFhYWEiLCJhdWQiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYXR0YWNobWVudC5vdXRsb29rLmxpdmUubmV0QDg0ZGY5ZTdmLWU5ZjYtNDBhZi1iNDM1LWFhYWFhYWFhYWFhYSIsImhhcHAiOiJvd2EifQ.W2Kkf7WuMLzns2uzYTUHW1xHy7cx0MB0iZDk3dMMb-tG3sA08KDNaoiLrj29zr5HvdovImOVxoSr7ZqGBvWZsminQTf6JvjaSB0tTWYWU3zBpceJ4IlOkjS6_q81bCbxJt-EG-KW1BD-qDHlNg6MxYsr_mLIRDZu4dus7OONBQHeceRAHub6ZyApoUoPa2bRJYfiGewsFJkf4WXbn0UEY-HystxpRROo2wPMIibqHapaeTxorprc8_bTWTHS93aWh_Ysg4jGsocwH5qUhPmWCJIW0VYKEim14BssBAmfU1f5Y7_ZjFZ-EL4v02fQQ-PfYALTVwMhdItpmOsywmaHTg&amp;X-OWA-CANARY=9aJAAXvJXE2aSHh6WIkg2dAtuiv_stkYETFvDucoQfMQ-C_ahcNnzekZ2xFhao_9-cALLRg0OHo.&amp;owa=outlook.live.com&amp;scriptVer=20211115002.08&amp;animation=true&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="前苏联俄罗斯著名挠场科学家Andrey.V.Bobrov 90岁纪念会成功举办！"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=1181">前苏联俄罗斯著名挠场科学家Andrey.V.Bobrov 90岁纪念会成功举办！</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>1年前 (2021-11-29)</time><span class="post-view"><i class="fa fa-eye"></i> 1.42K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=1171"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2020/07/c4ca4238a0b9238.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="纪念特斯拉大神诞辰164周年"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=1171">纪念特斯拉大神诞辰164周年</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>2年前 (2020-07-10)</time><span class="post-view"><i class="fa fa-eye"></i> 1.93K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=1167"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2020/05/80d071b1599ef5c.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="International Journal of Unconventional Science 25-26期，参与的气功论文正式发表。"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=1167">International Journal of Unconventional Science 25-26期，参与的气功论文正式发表。</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>3年前 (2020-05-15)</time><span class="post-view"><i class="fa fa-eye"></i> 2.01K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=1159"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2019/09/fea676b91509616.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="心灵（意识）影响感知装置"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=1159">心灵（意识）影响感知装置</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>3年前 (2019-09-06)</time><span class="post-view"><i class="fa fa-eye"></i> 4.58K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=1135"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2019/07/d419c7f200c5368.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="新做的挠场发生器测试"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=1135">新做的挠场发生器测试</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>3年前 (2019-07-08)</time><span class="post-view"><i class="fa fa-eye"></i> 11.77K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=1116"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="对纠缠宏观物体的远程监控（Distant monitoring of entangled macro-objects）"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=1116">对纠缠宏观物体的远程监控（Distant monitoring of entangled macro-objects）</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>4年前 (2019-04-03)</time><span class="post-view"><i class="fa fa-eye"></i> 2.62K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=1113"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="日本的挠场研究"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=1113">日本的挠场研究</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>4年前 (2019-02-19)</time><span class="post-view"><i class="fa fa-eye"></i> 4.36K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=1110"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2017/12/qian.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="纪念钱老诞辰107周年"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=1110">纪念钱老诞辰107周年</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>4年前 (2018-12-14)</time><span class="post-view"><i class="fa fa-eye"></i> 3.19K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article><article class="excerpt excerpt-c3 excerpt-noborder"><a target="_blank" class="thumbnail" href="http://www.scalarwave.cc/?p=1104"><img src="http://www.scalarwave.cc/wp-content/uploads/2019/07/7e736050ab29509.jpg" data-src="http://www.scalarwave.cc/wp-content/themes/YusiPro/timthumb.php?src=http://www.scalarwave.cc/wp-content/uploads/2018/11/20181113105543.jpg&h=210&w=280&zc=1&a=c&q=100&s=1" class="thumb" alt="网站首页被黑"></a><h2><a target="_blank" href="http://www.scalarwave.cc/?p=1104">网站首页被黑</a></h2><footer><span class="post-price" style="color: #009688;background: #00968824;"> Free </span><i class="fa fa-clock-o"></i> <time>4年前 (2018-11-13)</time><span class="post-view"><i class="fa fa-eye"></i> 2.95K</span><span class="post-comm"><i class="fa fa-comments-o"></i>评论(0)</span></footer></article></div></div><div class="pagination pagination-multi"><ul><li class="prev-page"></li><li class="active"><span>1</span></li><li><a href='http://www.scalarwave.cc/?wp2pcs=%2Ftranslation%2Ftpu-dsmith%E7%BF%BB%E8%AF%91193-263%E9%A1%B5.files%2Fimage032.jpg&#038;paged=2'>2</a></li><li><a href='http://www.scalarwave.cc/?wp2pcs=%2Ftranslation%2Ftpu-dsmith%E7%BF%BB%E8%AF%91193-263%E9%A1%B5.files%2Fimage032.jpg&#038;paged=3'>3</a></li><li><a href='http://www.scalarwave.cc/?wp2pcs=%2Ftranslation%2Ftpu-dsmith%E7%BF%BB%E8%AF%91193-263%E9%A1%B5.files%2Fimage032.jpg&#038;paged=4'>4</a></li><li><span> ... </span></li><li class="next-page"><a href="http://www.scalarwave.cc/?wp2pcs=%2Ftranslation%2Ftpu-dsmith%E7%BF%BB%E8%AF%91193-263%E9%A1%B5.files%2Fimage032.jpg&#038;paged=2" >下一页</a></li><li><a href='http://www.scalarwave.cc/?wp2pcs=%2Ftranslation%2Ftpu-dsmith%E7%BF%BB%E8%AF%91193-263%E9%A1%B5.files%2Fimage032.jpg&#038;paged=12'>尾页</a></li><li><span>共 12 页</span></li></ul></div></section>
+<!-- 最新文章end -->
+<!-- 分类楼层CMS一 -->
+	<!-- 分类楼层一end -->
+
+<footer class="footer">
+      
+<div class="footer1"><div class="container" id="friendlinks"><ul><li>友情链接：</li><li><a href="http://www.tfcbooks.com/tesla/contents.htm" target="_blank">特斯拉文章</a></li>
+<li><a href="http://http://www.energysea.net/portal.php" target="_blank">能量海论坛</a></li>
+<li><a href="http://www.zyxg.org/" target="_blank">自由星光网站</a></li>
+<li><a href="http://jnaudin.free.fr/" target="_blank">JLN Lab实验室网站</a></li>
+<li><a href="http://awaker.org" rel="me" target="_blank">觉醒家园</a></li>
+<li><a href="http://www.unconv-science.org/">IJUS(International Journal of Unconventional Science)</a></li>
+<li><a href="http://second-physics.ru/">Second Physics</a></li>
+<li><a href="http://www.zyneng.com/">佛心 自由能网站 Bedini</a></li>
+</ul></div></div>
+	<div class="container cs-moble-false">
+        <div class="row">
+	
+            <div class="col l4 m6 s12"><div class="cs-footer-logo"><img alt="YusiPro" src="http://www.scalarwave.cc/wp-content/uploads/2019/07/96d6f2e7e1f705a.jpg"></div>
+                <div class="cs-footer-text">
+                    <p><span class=" ">专注于标量波技术，挠场发生器，探测器及相关技术。</span></p>
+                </div>
+            </div>
+              <div class="col l2 m6 s6 m-t-l">
+                <h4 class="footer-head"></h4>
+                <ul class="cs-footer-links cs-footer-margin">
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                </ul>
+            </div>
+            <div class="col l2 m6 s6 m-t-l">
+                <h4 class="footer-head"></h4>
+                <ul class="cs-footer-links cs-footer-margin">
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                </ul>
+            </div>                     
+             <div class="col l2 m6 s6 m-t-l">
+                <h4 class="footer-head">官方微信</h4>
+                <ul class="cs-footer-links">
+					<img class="footer-qrimg" alt="" src="http://www.scalarwave.cc/wp-content/uploads/2019/07/06499e659b214d2-1.jpg">
+	            </ul>
+            </div>
+             <div class="col l2 m6 s6 m-t-l">
+                <h4 class="footer-head">官方支付宝</h4>
+                <ul class="cs-footer-links">
+					<img class="footer-qrimg" alt="" src="http://www.scalarwave.cc/wp-content/uploads/2019/07/c4162a86c89acf5.jpg">
+	            </ul>
+            </div>
+        </div>
+    </div>
+	<div class="footer-copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col l6 m6 s12">
+                    <div class="copy-text"><a href="http://www.scalarwave.cc">标量波挠场研究</a> 版权所有 © 2011-2019 · <a href="http://www.scalarwave.cc/sitemap.xml" title="站点地图">站点地图</a> · <a href="http://www.miitbeian.gov.cn/" rel="nofollow" target="_blank" ></a> </div></div>
+<div class="col l6 m6 s12"><div class="copyright-links"><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?29f50ed471f235e1d921ee20212c37bc";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div></div>
+            </div>
+        </div>
+    </div>
+	
+</footer>
+ 
+
+<script>
+	  		
+	window.TBUI = {
+		siteurl         : 'http://www.scalarwave.cc/',
+		uri             : 'http://www.scalarwave.cc/wp-content/themes/YusiPro',
+		ajaxpager       : '0',
+		pagenum         : '10',
+		shareimage      : 'http://www.scalarwave.cc/wp-content/uploads/2019/07/96d6f2e7e1f705a.jpg',
+		shareimagethumb : '1',
+		is_login_popup 	: '1',
+		is_oauth_qq 	: '0',
+        is_alpay     : '1',
+        is_weixinpay     : '1',
+        is_header_fixed     : '1',
+		is_email_reg 	: '0'
+	}
+	
+	console.log("version：YusiPro_V1.5");
+	console.log("SQL 请求数：64");
+	console.log("页面生成耗时： 7.37240");
+
+</script>
+<script type='text/javascript' src='http://www.scalarwave.cc/wp-content/plugins/smartideo/static/smartideo.js?ver=2.5.2'></script>
+<script type='text/javascript' src='http://www.scalarwave.cc/wp-content/themes/YusiPro/js/popup.min.js?ver=1.5'></script>
+<script type='text/javascript' src='http://www.scalarwave.cc/wp-content/themes/YusiPro/js/main.js?ver=1.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wppay_ajax_url = "http:\/\/www.scalarwave.cc\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.scalarwave.cc/wp-content/themes/YusiPro/shop/static/js/qy-pay.js?ver=5.0.4'></script>
+<script type='text/javascript' src='http://www.scalarwave.cc/wp-includes/js/wp-embed.min.js?ver=5.0.4'></script>
+</script>
+</body>
+</html>
