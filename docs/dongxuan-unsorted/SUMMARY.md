@@ -16,6 +16,7 @@
 +   [占星学刊 Journal of Astrology](占星学刊共四期之第三期.md)
 +   [占星学刊 Journal of Astrology](占星学刊共四期之第二期.md)
 +   [占星学刊 Journal of Astrology](占星学刊共四期之第四期.md)
++   [本命盘解析初步](占星术-星相学.md)
 +   [目次](占星相位研究-117P.md)
 +   [序](占星进阶.md)
 +   [袁天罡十将](卦占六亲-民国手抄本.md)
