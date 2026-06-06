@@ -101,6 +101,7 @@
 +   [飛星十二宮位研究](飞星12宫位解析.md)
 +   [香氛时光](香氛时光.md)
 +   [香草](香草植物记事.md)
++   [格瑞魔法学校](魔法师学徒的伴侣书下.md)
 +   [魔法精油](魔法精油宝典.md)
 +   [LLEWELLYN'S COMPLETE FORMULARY OF MAGICAL OILS](魔法精油调配大全.md)
 +   [Practical Candleburning Rituals](魔法蜡烛宝典.md)
