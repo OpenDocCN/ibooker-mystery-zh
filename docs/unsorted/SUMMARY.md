@@ -123,6 +123,7 @@
 +   [St. Royal College](能量灵摆占卜手册.md)
 +   [脈輪水晶](脉轮水晶疗愈指南.md)
 +   [ANODEA JUDITH'S](脉轮瑜伽全书.md)
++   [SHADOWSCAPES TAROT](花茎幻影塔罗牌.md)
 +   [芳疗养生](芳疗养生.md)
 +   [芳療塑身](芳疗塑身.md)
 +   [芳香疗法简介](芳香宝典.md)
