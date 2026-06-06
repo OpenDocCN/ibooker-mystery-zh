@@ -101,4 +101,5 @@
 +   [香草](香草植物记事.md)
 +   [魔法精油](魔法精油宝典.md)
 +   [LLEWELLYN'S COMPLETE FORMULARY OF MAGICAL OILS](魔法精油调配大全.md)
++   [Practical Candleburning Rituals](魔法蜡烛宝典.md)
 +   [CULINARY HERBS FOR MAGIC, BEAUTY, AND HEALTH](魔草药配方书.md)
