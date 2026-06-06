@@ -97,4 +97,5 @@
 +   [飛星十二宮位研究](飞星12宫位解析.md)
 +   [香氛时光](香氛时光.md)
 +   [香草](香草植物记事.md)
++   [魔法精油](魔法精油宝典.md)
 +   [CULINARY HERBS FOR MAGIC, BEAUTY, AND HEALTH](魔草药配方书.md)
