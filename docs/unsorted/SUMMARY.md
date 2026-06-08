@@ -249,6 +249,7 @@
 +   [Crystals for Healing](水晶疗愈师.md)
 +   [THE MODERN GUIDE TO CRYSTAL HEALING](水晶疗愈指南：50款经典矿石应用.md)
 +   [THE CRYSTAL HEALER](水晶能量疗愈万用书.md)
++   [水晶能量療癒指南](水晶能量疗愈指南.md)
 +   [水晶高频治疗](水晶高频治疗.md)
 +   [水腫自癒](水的漫舞.md)
 +   [河图洛书新解](河图洛书新解.md)
