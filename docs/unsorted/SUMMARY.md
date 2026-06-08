@@ -353,6 +353,7 @@
 +   [萨提亚：沉思冥想](萨提亚：沉思冥想.md)
 +   [行家这样买宝石](行家这样买宝石.md)
 +   [西藏心瑜伽](西藏心瑜伽.md)
++   [Kabbalah and the Power of Dreaming](视觉心像.md)
 +   [覺醒2.0](觉醒2.0.md)
 +   [REALITY UNVEILED](觉醒练习.md)
 +   [覺醒](觉醒：看懂你的命运蓝图.md)
