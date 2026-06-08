@@ -248,6 +248,7 @@
 +   [提升你的人生運勢！](水晶开运鉴定团.md)
 +   [Crystals for Healing](水晶疗愈师.md)
 +   [THE MODERN GUIDE TO CRYSTAL HEALING](水晶疗愈指南：50款经典矿石应用.md)
++   [水晶占卜](水晶能量全方位使用图鉴.md)
 +   [THE CRYSTAL HEALER](水晶能量疗愈万用书.md)
 +   [水晶能量療癒指南](水晶能量疗愈指南.md)
 +   [水晶高频治疗](水晶高频治疗.md)
